@@ -1,0 +1,13 @@
+dept_id,dept_name,region,budget
+1,Sales,West,2366891.0
+2,Marketing,Remote,3944769.0
+3,Engineering,East,1391743.0
+4,Product,Remote,703355.0
+5,HR,Remote,1862752.0
+6,Finance,South,1996025.0
+7,Operations,East,1907371.0
+8,Legal,East,1517040.0
+9,Customer Support,East,2853882.0
+10,R&D,Remote,4130409.0
+11,Data Science,West,2100942.0
+12,IT Infrastructure,East,4860029.0
