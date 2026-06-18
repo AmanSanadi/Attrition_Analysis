@@ -1,0 +1,1206 @@
+employee_id,first_name,last_name,gender,hire_date,salary,dept_id,manager_id,job_role,overtime_hours_per_month,performance_rating,attrition
+2001,Diana,Brown,Female,2023-09-01,160000,2,1019,Analyst,7,3.0,0
+2002,Ivy,Wilson,female,2019-10-15,38000,7,1025,Associate,7,4.0,0
+2003,Olivia,Kim,Female,2022-08-31,112000,3,1024,Analyst,5,3.0,1
+2004,Kevin,Johnson,male,2022-07-11,160000,6,1034,Analyst,9,5.0,0
+2005,Bob,Wilson,female,2019-01-12,85k,99,9999,Manager,8,2.0,0
+2006,Nick,Rodriguez,Female,2021-12-02,98000,3,1024,Analyst,12,5.0,0
+2007,Laura,Rodriguez,Male,2020-06-25,fifty two thousand,2,1044,Analyst,6,3.0,0
+2008,Laura,Rodriguez,Male,2020-05-23,61k,4,1029,Analyst,9,2.0,0
+2009,Frank,Johnson,female,2021-09-21,38000,99,9999,Analyst,9,3.0,0
+2010,Eve,Wilson,Female,2021-09-18,98000,3,1043,Lead,8,4.0,0
+2011,Charlie,Garcia,male,2022-01-17,61000,10,1018,Senior Analyst,9,4.0,0
+2012,Alice,Smith,male,2021-04-17,45k,1,1026,Analyst,4,3.0,0
+2013,Kevin,Kim,f,2020-06-13,112000,4,1029,Director,7,3.0,1
+2014,Kevin,Rodriguez,Male,2023-12-13,112000,3,1043,Analyst,8,4.0,0
+2015,Olivia,Kim,Male,2023-04-30,112000,3,1015,Lead,7,4.0,0
+2016,Laura,Martinez,m,2018-02-06,98000,8,1001,Senior Analyst,6,4.0,0
+2017,Henry,Lee,F,2019-04-15,38000,7,1038,Senior Analyst,13,1.0,0
+2018,Bob,Rodriguez,F,2021-11-18,98000,10,1037,Analyst,8,4.0,0
+2019,Jack,Johnson,Male,2022-12-31,98000,3,1042,Associate,13,4.0,0
+2020,Mona,Kim,m,2020-09-11,160000,3,1015,Lead,6,5.0,0
+2021,Henry,Martinez,male,2020-09-25,135000,3,1024,Associate,11,4.0,0
+2022,Charlie,Garcia,Female,2018-06-13,38000,3,1032,Senior Analyst,12,3.0,0
+2023,Frank,Garcia,Man,2030-04-18,112000,9,1007,Senior Analyst,8,3.0,0
+2024,Charlie,Martinez,Male,2022-04-12,38000,6,1034,Manager,10,4.0,0
+2025,Olivia,Garcia,Male,2019-04-10,61000,1,1026,Associate,8,4.0,1
+2026,Nick,Wilson,m,2022-04-30,98000,3,1032,Associate,1,5.0,0
+2027,Nick,Davis,male,2020-11-16,38000,3,1014,Analyst,11,4.0,1
+2028,Ivy,Brown,female,2021-03-04,135000,10,1018,Analyst,10,4.0,1
+2029,Henry,Brown,Man,2018-04-12,thirty eight k,11,1006,Associate,6,3.0,1
+2030,Bob,Johnson,male,2023-10-19,112000,2,1021,Analyst,6,3.0,0
+2031,Frank,Johnson,F,2022-03-16,73000,99,9999,Senior Analyst,6,3.0,1
+2032,Olivia,Wilson,female,2023-10-08,73000,3,1015,Analyst,12,1.0,0
+2033,Mona,Brown,female,2023-09-15,98000,99,9999,Analyst,7,4.0,0
+2034,Diana,Davis,Male,2022-12-31,38000,6,1034,Analyst,10,3.0,0
+2035,Diana,Wilson,Female,2023-06-17,52000,1,1009,Senior Analyst,3,3.0,0
+2036,Ivy,Smith,m,2018-06-29,112000,4,1023,Analyst,6,3.0,0
+2037,Bob,Patel,male,2021-04-29,135000,10,1018,Senior Analyst,10,3.0,0
+2038,Kevin,Wilson,m,2020-02-28,160000,10,1022,Analyst,4,2.0,0
+2039,Mona,Rodriguez,male,2021-08-05,135000,8,1001,Manager,10,4.0,0
+2040,Olivia,Brown,Female,2023-10-06,98000,7,1039,Associate,9,3.0,0
+2041,Henry,Martinez,Male,2018-12-04,thirty eight k,9,1016,Lead,4,4.0,0
+2042,Bob,Martinez,male,2019-01-29,160000,9,1031,Associate,14,4.0,1
+2043,Jack,Lee,Female,2019-11-17,61000,1,1026,VP,6,5.0,0
+2044,Olivia,Lee,M,2023-12-25,45000,4,1023,Senior Analyst,4,2.0,0
+2045,Charlie,Rodriguez,Female,2018-01-31,52000,3,1032,Lead,5,3.0,1
+2046,Henry,Martinez,F,2018-09-26,45k,12,1035,Manager,7,3.0,0
+2047,Jack,Davis,Man,2020-05-13,112000,7,1039,Senior Analyst,8,4.0,0
+2048,Olivia,Lee,f,2020-05-23,45000,99,9999,Analyst,10,5.0,1
+2049,Nick,Wilson,Man,2022-10-04,98000,5,1008,Analyst,8,4.0,1
+2050,Laura,Brown,M,2019-03-02,135000,12,1010,Associate,6,4.0,0
+2051,Kevin,Patel,m,2020-04-22,52000,12,1040,Senior Analyst,6,3.0,0
+2052,Kevin,Martinez,female,2022-11-18,ninety eight k,2,1019,Associate,9,4.0,1
+2053,Frank,Martinez,m,2018-10-23,52000,7,1041,Manager,10,2.0,0
+2054,Kevin,Garcia,m,2019-09-22,160000,10,1037,Lead,8,4.0,0
+2055,Frank,Patel,Female,2018-04-08,fifty two thousand,99,9999,Analyst,5,4.0,0
+2056,Nick,Johnson,female,2023-02-24,fifty two thousand,3,1032,Analyst,11,3.0,0
+2057,Grace,Lee,Female,2021-09-20,38000,3,1015,Lead,8,3.0,0
+2058,Diana,Brown,Male,2018-06-05,73000,11,1036,Senior Analyst,7,,1
+2059,Alice,Davis,Male,2018-12-25,112000,12,1040,Director,7,2.0,0
+2060,Alice,Smith,Female,2018-10-28,fifty two thousand,4,1029,Senior Analyst,6,2.0,0
+2061,Ivy,Garcia,Male,2018-08-11,52000,1,1001,Analyst,7,3.0,0
+2062,Ivy,Patel,Male,2019-12-31,38000,99,9999,Analyst,9,3.0,0
+2063,Alice,Rodriguez,male,2020-10-28,seventy three thousand,5,1008,Manager,7,4.0,0
+2064,Kevin,Wilson,f,2018-10-16,112000,7,1041,Associate,9,4.0,1
+2065,Alice,Garcia,Female,2020-07-21,135000,12,1035,Associate,9,4.0,1
+2066,Bob,Johnson,Female,2020-11-25,160000,10,1018,Senior Analyst,14,3.0,0
+2067,Alice,Smith,Female,2022-07-28,61000,11,1036,Associate,-4,4.0,0
+2068,Eve,Johnson,Female,2022-05-09,112000,3,1015,Senior Analyst,2,5.0,0
+2069,Henry,Patel,Male,2023-01-22,112000,9,1031,Analyst,3,3.0,1
+2070,Eve,Garcia,Male,2022-07-15,160000,10,1022,Analyst,8,3.0,0
+2071,Henry,Davis,f,2022-11-09,135000,3,1014,Lead,6,5.0,1
+2072,Ivy,Johnson,Female,2021-07-19,135000,3,1042,Analyst,10,2.0,0
+2073,Kevin,Rodriguez,female,2018-03-11,61k,99,9999,Analyst,8,3.0,0
+2074,Nick,Martinez,Female,2022-05-15,fifty two thousand,7,1039,Associate,15,3.0,0
+2075,Ivy,Davis,m,2019-04-30,85k,3,1014,Analyst,9,1.0,0
+2076,Diana,Rodriguez,Male,2023-12-31,38000,99,9999,Analyst,4,3.0,1
+2077,Henry,Patel,F,2018-01-25,160000,99,9999,Analyst,5,3.0,0
+2078,Grace,Patel,Female,2018-09-17,45k,9,1007,Associate,3,4.0,0
+2079,Bob,Patel,Female,2018-07-06,98000,99,9999,Analyst,9,3.0,0
+2080,Jack,Patel,male,2018-10-25,52000,3,1024,Associate,8,4.0,0
+2081,Frank,Smith,Female,2022-01-05,160000,3,1042,Senior Analyst,10,3.0,0
+2082,Grace,Lee,female,2023-08-22,160000,11,1027,Analyst,6,5.0,0
+2083,Mona,Kim,female,2019-03-11,135000,99,9999,Senior Analyst,9,5.0,0
+2084,Alice,Johnson,female,2021-04-02,112000,99,9999,VP,7,4.0,0
+2085,Jack,Wilson,male,2021-05-19,85000,6,1034,Associate,11,5.0,0
+2086,Jack,Kim,m,2018-12-21,45000,99,9999,Manager,6,4.0,0
+2087,Alice,Johnson,Male,2021-02-27,85000,99,9999,Analyst,8,5.0,0
+2088,Kevin,Smith,Male,2022-11-28,98000,99,9999,Associate,7,3.0,0
+2089,Mona,Rodriguez,Female,2022-04-12,98000,12,1040,Lead,6,3.0,0
+2090,Bob,Garcia,Male,2022-06-07,45000,10,1018,Analyst,9,4.0,0
+2091,Charlie,Davis,Male,2018-05-07,fifty two thousand,9,1007,Lead,10,3.0,0
+2092,Ivy,Martinez,Female,2023-04-26,73000,5,1028,Associate,10,4.0,0
+2093,Charlie,Garcia,female,2019-10-03,98000,99,9999,Lead,4,5.0,0
+2094,Charlie,Brown,Female,2023-12-26,61000,99,9999,Lead,11,3.0,0
+2095,Grace,Davis,Male,2020-06-19,45000,3,1024,Analyst,7,4.0,0
+2096,Nick,Smith,M,2019-07-13,135000,3,1024,Senior Analyst,10,3.0,1
+2097,Bob,Lee,Male,2022-05-21,112000,7,1033,Associate,3,3.0,0
+2098,Mona,Johnson,f,2021-04-23,160000,7,1033,Analyst,6,4.0,0
+2099,Mona,Rodriguez,Female,2019-08-14,73000,99,9999,Analyst,8,3.0,0
+2100,Bob,Brown,m,2021-05-05,85000,3,1032,Manager,5,4.0,0
+2101,Jack,Patel,Female,2022-03-09,160000,1,1001,VP,5,4.0,0
+2102,Ivy,Martinez,Female,2018-02-15,85000,7,1017,Lead,5,3.0,1
+2103,Alice,Lee,Male,2019-08-03,160000,3,1015,Senior Analyst,14,4.0,0
+2104,Bob,Johnson,female,2019-05-20,135000,4,1029,Analyst,3,4.0,0
+2105,Laura,Lee,f,2018-06-21,112000,11,1027,Manager,7,3.0,0
+2106,Diana,Wilson,male,2018-01-21,52000,11,1006,Associate,13,3.0,0
+2107,Grace,Brown,Female,2022-06-03,61000,3,1024,Analyst,6,5.0,0
+2108,Henry,Smith,Male,2018-12-15,61k,9,1016,Senior Analyst,4,4.0,1
+2109,Mona,Davis,Female,2021-06-02,38000,7,1025,Analyst,7,3.0,1
+2110,Nick,Garcia,Male,2020-05-10,45000,10,1018,Associate,9,2.0,0
+2111,Charlie,Garcia,Male,2021-11-09,61000,3,1043,Director,4,4.0,1
+2112,Alice,Brown,female,2020-05-17,98000,9,1016,Analyst,7,,0
+2113,Frank,Brown,M,2022-08-18,85000,99,9999,VP,9,3.0,0
+2114,Nick,Wilson,Female,2023-10-01,61k,7,1002,Manager,5,4.0,0
+2115,Laura,Kim,male,2019-08-07,61000,99,9999,Analyst,8,4.0,0
+2116,Eve,Smith,m,2019-10-22,73000,6,1034,Analyst,12,4.0,1
+2117,Kevin,Kim,Female,2020-01-24,73000,4,1029,Associate,4,3.0,1
+2118,Kevin,Brown,Male,2020-06-23,135000,10,1022,Lead,10,4.0,1
+2119,Laura,Lee,Female,2020-11-01,thirty eight k,10,1018,Analyst,9,3.0,0
+2120,Jack,Wilson,female,2020-03-06,85000,99,9999,Associate,11,5.0,0
+2121,Henry,Garcia,Male,2019-04-15,160000,3,1014,Associate,9,4.0,0
+2122,Charlie,Kim,male,2020-01-13,38000,7,1039,Associate,10,4.0,0
+2123,Diana,Rodriguez,male,2018-08-11,61000,9,1016,Analyst,5,4.0,0
+2124,Alice,Garcia,Female,2023-03-05,85000,11,1036,Analyst,7,3.0,0
+2125,Laura,Martinez,female,2018-10-27,112000,1,1013,Associate,9,5.0,1
+2126,Alice,Garcia,Female,2021-04-05,38000,99,9999,Senior Analyst,6,2.0,1
+2127,Eve,Smith,Male,2018-10-03,112000,7,1041,Associate,7,4.0,0
+2128,Alice,Davis,Female,2020-10-23,112000,3,1024,Senior Analyst,9,3.0,0
+2129,Henry,Smith,m,2019-02-07,135000,99,9999,Director,7,3.0,0
+2130,Nick,Patel,Female,2020-03-19,112000,11,1027,Analyst,10,4.0,0
+2131,Henry,Patel,female,2023-06-19,98000,99,9999,Lead,10,4.0,0
+2132,Alice,Martinez,female,2021-09-17,38000,4,1023,Associate,10,4.0,0
+2133,Henry,Kim,female,2022-01-02,73000,9,1031,Director,5,4.0,0
+2134,Mona,Smith,male,2019-06-10,85000,9,1031,Associate,10,,0
+2135,Bob,Lee,f,2020-08-18,38000,99,9999,Associate,12,5.0,0
+2136,Bob,Wilson,Male,2019-02-14,85000,1,1009,Associate,3,3.0,1
+2137,Mona,Johnson,Female,2021-03-13,85k,3,1015,Associate,6,4.0,0
+2138,Grace,Brown,F,2018-10-13,52000,3,1042,Senior Analyst,12,4.0,1
+2139,Olivia,Martinez,Man,2020-03-03,38000,3,1043,Associate,2,3.0,0
+2140,Ivy,Johnson,Female,2021-07-25,98000,7,1041,Analyst,4,1.0,0
+2141,Ivy,Kim,Male,2023-06-14,52000,5,1005,Director,10,3.0,0
+2142,Alice,Kim,Female,2023-01-20,ninety eight k,5,1005,Associate,5,3.0,0
+2143,Bob,Wilson,Female,2021-09-06,45000,99,9999,Lead,7,3.0,0
+2144,Jack,Davis,M,2021-06-06,73000,99,9999,Associate,8,2.0,0
+2145,Ivy,Wilson,M,2019-09-17,85000,1,1009,Analyst,6,3.0,0
+2146,Eve,Rodriguez,female,2022-02-01,73000,3,1043,Manager,11,4.0,0
+2147,Diana,Garcia,female,2021-07-19,112000,10,1022,Associate,10,4.0,1
+2148,Kevin,Lee,Male,2022-10-21,85000,4,1003,Associate,9,3.0,0
+2149,Eve,Johnson,male,2019-11-22,73000,3,1042,Senior Analyst,11,3.0,1
+2150,Diana,Wilson,f,2018-01-20,seventy three thousand,3,1043,Analyst,8,3.0,0
+2151,Bob,Rodriguez,f,2021-07-06,85000,3,1042,Associate,7,4.0,1
+2152,Jack,Smith,Male,2020-10-05,61000,99,9999,Associate,8,4.0,1
+2153,Grace,Lee,Male,2020-06-26,112000,2,1021,Analyst,4,4.0,0
+2154,Nick,Martinez,Female,2022-11-22,112000,11,1027,Senior Analyst,10,4.0,0
+2155,Olivia,Davis,Female,2021-02-07,fifty two thousand,9,1007,Associate,8,4.0,0
+2156,Alice,Kim,Female,2022-01-12,112000,3,1032,Associate,7,4.0,0
+2157,Jack,Kim,M,2019-07-05,135000,6,1034,Senior Analyst,11,3.0,0
+2158,Ivy,Patel,Man,2021-09-20,85k,3,1042,Analyst,8,4.0,0
+2159,Bob,Martinez,Female,2023-05-20,45000,10,1018,Manager,7,,1
+2160,Ivy,Garcia,female,2023-03-11,135000,1,1026,Analyst,12,,1
+2161,Henry,Smith,Male,2022-12-30,52000,1,1013,Lead,11,4.0,0
+2162,Bob,Wilson,male,2022-01-09,38000,10,1037,Senior Analyst,13,2.0,0
+2163,Frank,Kim,Male,2021-06-05,135000,3,1014,Associate,11,5.0,0
+2164,Bob,Davis,Male,2023-06-18,73000,1,1009,Associate,10,3.0,0
+2165,Diana,Smith,female,2019-03-22,160000,5,1005,Associate,10,3.0,0
+2166,Eve,Wilson,f,2019-12-21,85000,1,1045,Associate,10,2.0,0
+2167,Grace,Kim,Man,2018-12-02,thirty eight k,99,9999,Senior Analyst,2,5.0,1
+2168,Ivy,Martinez,Female,2021-02-23,seventy three thousand,1,1013,Associate,15,5.0,0
+2169,Eve,Patel,Female,2019-07-28,73000,9,1031,Associate,10,5.0,0
+2170,Olivia,Patel,M,2020-03-15,61000,6,1034,VP,5,4.0,0
+2171,Mona,Patel,Female,2020-12-14,61000,10,1037,Analyst,9,4.0,0
+2172,Henry,Rodriguez,Male,2018-11-10,135000,3,1042,Manager,9,5.0,0
+2173,Kevin,Kim,Female,2018-11-05,112000,2,1019,VP,8,5.0,0
+2174,Ivy,Lee,Male,2018-03-18,seventy three thousand,99,9999,Analyst,8,4.0,0
+2175,Nick,Wilson,Male,2023-09-09,seventy three thousand,12,1010,Manager,11,3.0,0
+2176,Bob,Patel,Female,2018-05-08,160000,99,9999,Analyst,7,4.0,0
+2177,Nick,Martinez,Female,2022-07-18,45000,3,1042,Lead,9,5.0,0
+2178,Diana,Lee,Female,2020-05-21,85000,1,1045,Director,7,5.0,0
+2179,Nick,Smith,Female,2018-05-31,seventy three thousand,3,1042,Lead,3,5.0,0
+2180,Laura,Patel,F,2020-12-03,73000,8,1001,Lead,10,5.0,0
+2181,Charlie,Patel,female,2023-04-18,fifty two thousand,3,1042,Associate,7,5.0,1
+2182,Eve,Rodriguez,Male,2019-09-01,160000,12,1040,Senior Analyst,6,4.0,0
+2183,Diana,Johnson,male,2022-02-07,135000,3,1015,Senior Analyst,11,4.0,1
+2184,Frank,Kim,female,2022-05-27,fifty two thousand,99,9999,Associate,4,3.0,0
+2185,Kevin,Johnson,female,2020-07-03,thirty eight k,7,1041,Analyst,4,4.0,0
+2186,Mona,Kim,Male,2021-04-06,thirty eight k,99,9999,Associate,5,4.0,0
+2187,Henry,Kim,m,2019-07-03,ninety eight k,3,1042,Associate,8,5.0,0
+2188,Diana,Patel,Male,2023-03-19,160000,6,1034,Analyst,10,4.0,0
+2189,Nick,Wilson,Female,2023-08-15,112000,10,1018,Associate,12,3.0,0
+2190,Alice,Johnson,m,2023-09-22,73000,2,1044,Manager,9,1.0,0
+2191,Jack,Patel,female,2019-01-06,61000,2,1044,Associate,3,4.0,0
+2192,Mona,Patel,f,2022-06-14,135000,99,9999,Senior Analyst,8,4.0,0
+2193,Alice,Wilson,Male,2022-01-30,112000,11,1006,Analyst,7,3.0,0
+2194,Frank,Rodriguez,female,2023-08-19,45000,1,1001,Senior Analyst,10,3.0,0
+2195,Bob,Brown,Man,2018-02-13,112000,5,1028,Analyst,7,4.0,0
+2196,Olivia,Patel,Male,2020-09-05,73000,6,1034,Senior Analyst,10,3.0,0
+2197,Charlie,Wilson,F,2019-11-11,112000,11,1006,Manager,9,3.0,0
+2198,Grace,Martinez,Male,2023-10-07,61k,3,1043,Analyst,4,3.0,0
+2199,Kevin,Smith,Female,2019-07-29,160000,3,1042,Analyst,6,4.0,0
+2200,Ivy,Wilson,m,2023-01-02,85000,1,1026,Senior Analyst,9,4.0,0
+2201,Bob,Patel,Female,2019-10-15,85000,6,1034,Senior Analyst,11,3.0,0
+2202,Olivia,Garcia,Female,2020-01-04,85000,10,1037,Analyst,11,5.0,0
+2203,Kevin,Martinez,male,2019-08-22,thirty eight k,1,1045,Analyst,3,3.0,0
+2204,Charlie,Johnson,m,2023-06-04,45000,99,9999,Analyst,7,3.0,0
+2205,Alice,Smith,Male,2022-01-09,112000,7,1038,Senior Analyst,10,3.0,1
+2206,Frank,Davis,Female,2018-06-15,73000,3,1032,Associate,10,3.0,0
+2207,Ivy,Wilson,Male,2020-06-15,160000,1,1045,Senior Analyst,11,2.0,0
+2208,Grace,Patel,Female,2023-06-21,135000,3,1014,Director,5,2.0,0
+2209,Alice,Johnson,m,2020-08-07,45000,99,9999,Analyst,5,4.0,0
+2210,Frank,Lee,Female,2018-09-15,45000,10,1022,Manager,10,4.0,0
+2211,Nick,Wilson,Female,2020-12-18,135000,7,1002,Manager,10,4.0,0
+2212,Olivia,Kim,female,2022-02-22,160000,10,1022,Analyst,9,4.0,0
+2213,Alice,Rodriguez,M,2020-08-16,160000,6,1034,Associate,5,2.0,0
+2214,Frank,Smith,Female,2018-06-25,52000,11,1006,Senior Analyst,12,,0
+2215,Kevin,Johnson,Man,2020-04-26,ninety eight k,1,1026,Associate,6,2.0,0
+2216,Kevin,Patel,Female,2023-10-23,61000,9,1007,Associate,10,4.0,0
+2217,Frank,Patel,male,2022-01-19,160000,2,1044,Manager,6,3.0,0
+2218,Ivy,Patel,Male,2022-05-09,98000,2,1021,Senior Analyst,16,5.0,0
+2219,Nick,Smith,Male,2023-04-08,85000,4,1023,Senior Analyst,11,,0
+2220,Olivia,Johnson,Female,2023-02-06,61k,1,1013,Lead,6,2.0,1
+2221,Laura,Patel,Female,2018-07-10,45000,1,1001,Manager,4,4.0,0
+2222,Nick,Kim,M,2018-06-13,160000,3,1014,Lead,11,1.0,0
+2223,Diana,Kim,female,2021-08-20,45000,99,9999,Analyst,7,,0
+2224,Charlie,Rodriguez,male,2019-02-27,112000,3,1014,Senior Analyst,8,4.0,0
+2225,Laura,Smith,Male,2023-11-06,45000,1,1045,Lead,8,3.0,0
+2226,Charlie,Lee,Female,2021-01-25,52000,11,1006,Lead,7,3.0,0
+2227,Grace,Garcia,Male,2020-12-14,ninety eight k,12,1030,Analyst,11,1.0,0
+2228,Charlie,Rodriguez,Female,2019-12-14,45000,4,1012,Analyst,13,4.0,0
+2229,Nick,Johnson,Female,2022-03-23,160000,7,1017,Senior Analyst,9,3.0,0
+2230,Laura,Martinez,Male,2022-03-31,98000,10,1022,Senior Analyst,11,4.0,0
+2231,Grace,Wilson,Female,2022-02-05,thirty eight k,1,1001,Analyst,11,5.0,0
+2232,Kevin,Lee,f,2018-11-15,52000,99,9999,Analyst,11,3.0,0
+2233,Laura,Brown,m,2023-10-18,38000,99,9999,Associate,7,5.0,0
+2234,Diana,Wilson,m,2020-10-27,52000,3,1015,Analyst,2,4.0,0
+2235,Charlie,Rodriguez,male,2022-03-22,73000,1,1013,Lead,5,3.0,0
+2236,Kevin,Lee,female,2020-07-01,160000,99,9999,Associate,8,3.0,0
+2237,Frank,Johnson,Female,2023-10-17,61000,7,1039,Associate,13,4.0,0
+2238,Alice,Smith,F,2022-07-21,85000,8,1001,Analyst,10,3.0,0
+2239,Henry,Johnson,female,2021-12-16,73000,10,1018,Associate,7,2.0,0
+2240,Charlie,Wilson,female,2021-11-14,98000,10,1037,Analyst,4,3.0,0
+2241,Nick,Rodriguez,male,2023-06-18,85000,99,9999,Analyst,12,4.0,0
+2242,Frank,Martinez,Male,2023-05-29,160000,99,9999,Analyst,9,4.0,0
+2243,Mona,Rodriguez,Female,2018-01-28,135000,99,9999,Associate,10,4.0,0
+2244,Nick,Rodriguez,female,2023-08-18,52000,10,1022,Associate,11,3.0,0
+2245,Diana,Wilson,Man,2019-07-24,38000,12,1010,Analyst,4,4.0,1
+2246,Jack,Wilson,Man,2022-12-07,135000,10,1018,Senior Analyst,5,5.0,0
+2247,Frank,Brown,male,2019-11-10,38000,9,1031,Analyst,4,2.0,0
+2248,Eve,Kim,Male,2020-07-31,85k,2,1019,Analyst,8,2.0,0
+2249,Bob,Kim,Male,2018-11-12,73000,12,1030,Senior Analyst,9,5.0,0
+2250,Laura,Johnson,male,2023-10-09,61000,12,1035,Lead,2,4.0,1
+2251,Frank,Wilson,Female,2021-02-24,160000,10,1018,Analyst,11,4.0,0
+2252,Henry,Wilson,M,2020-05-16,85000,12,1030,VP,6,5.0,0
+2253,Kevin,Johnson,Female,2019-09-08,98000,10,1018,Manager,9,4.0,0
+2254,Mona,Kim,Male,2020-02-05,135000,3,1032,Associate,14,3.0,0
+2255,Eve,Lee,Male,2019-10-07,52000,3,1024,Manager,11,4.0,1
+2256,Alice,Rodriguez,Male,2022-01-23,61000,3,1024,Analyst,8,4.0,1
+2257,Nick,Martinez,Female,2019-04-30,85000,5,1005,Senior Analyst,8,5.0,0
+2258,Diana,Lee,female,2020-08-01,52000,1,1001,Analyst,11,3.0,0
+2259,Ivy,Garcia,male,2022-08-26,fifty two thousand,10,1018,Analyst,12,4.0,0
+2260,Olivia,Kim,female,2021-09-14,45000,4,1012,Analyst,13,4.0,0
+2261,Alice,Brown,Male,2019-04-10,52000,10,1018,Analyst,9,3.0,0
+2262,Ivy,Garcia,female,2023-05-27,112000,5,1008,Analyst,11,3.0,0
+2263,Frank,Rodriguez,Female,2023-05-16,fifty two thousand,10,1022,Analyst,5,5.0,1
+2264,Laura,Johnson,Man,2023-05-17,98000,4,1029,Associate,10,3.0,0
+2265,Grace,Davis,f,2020-05-13,160000,3,1042,Lead,8,4.0,0
+2266,Olivia,Smith,Man,2019-10-23,160000,7,1039,Analyst,9,5.0,0
+2267,Bob,Patel,Man,2022-08-11,135000,10,1018,Analyst,6,3.0,1
+2268,Nick,Wilson,Female,2018-04-02,112000,4,1020,Director,6,5.0,0
+2269,Charlie,Garcia,female,2020-09-25,61k,99,9999,Senior Analyst,11,4.0,0
+2270,Alice,Patel,Female,2018-06-26,160000,1,1001,Lead,11,4.0,0
+2271,Grace,Patel,Female,2019-06-08,112000,6,1034,Analyst,7,3.0,1
+2272,Henry,Brown,male,2019-10-22,61000,99,9999,Analyst,9,5.0,1
+2273,Mona,Johnson,f,2019-07-06,73000,9,1016,Lead,4,3.0,0
+2274,Kevin,Kim,m,2023-10-01,135000,6,1034,Associate,13,3.0,0
+2275,Olivia,Smith,F,2018-06-10,38000,9,1007,Associate,5,3.0,0
+2276,Laura,Garcia,Male,2019-08-25,160000,9,1016,Director,5,3.0,0
+2277,Charlie,Garcia,Male,2018-08-18,85k,11,1006,Analyst,7,4.0,0
+2278,Grace,Johnson,Male,2019-11-13,112000,2,1021,Associate,8,5.0,0
+2279,Olivia,Davis,Male,2020-11-23,45k,3,1043,Lead,6,5.0,0
+2280,Nick,Brown,female,2020-01-08,135000,9,1007,Senior Analyst,11,3.0,1
+2281,Jack,Brown,Male,2023-10-18,73000,99,9999,Associate,8,3.0,0
+2282,Jack,Martinez,Female,2022-07-19,45000,9,1007,Senior Analyst,10,4.0,0
+2283,Bob,Johnson,Male,2018-03-18,160000,3,1024,Associate,5,1.0,0
+2284,Nick,Garcia,Female,2021-03-07,112000,10,1037,Associate,7,4.0,1
+2285,Henry,Davis,female,2018-12-18,45000,11,1036,Analyst,6,5.0,0
+2286,Kevin,Davis,m,2020-06-06,135000,3,1043,Associate,7,5.0,0
+2287,Eve,Garcia,M,2023-01-14,73000,5,1005,Associate,8,3.0,0
+2288,Kevin,Kim,female,2023-04-15,85000,8,1001,Senior Analyst,11,4.0,0
+2289,Ivy,Johnson,male,2023-05-27,38000,7,1017,Director,9,1.0,0
+2290,Charlie,Rodriguez,female,2019-11-30,135000,5,1028,Manager,8,3.0,1
+2291,Jack,Lee,F,2020-06-17,160000,3,1042,Lead,7,4.0,1
+2292,Frank,Rodriguez,Female,2022-08-10,98000,1,1026,Analyst,6,5.0,1
+2293,Laura,Garcia,M,2019-08-08,73000,1,1026,Manager,5,5.0,0
+2294,Charlie,Kim,Female,2020-01-15,38000,99,9999,Associate,9,5.0,1
+2295,Ivy,Smith,male,2023-09-24,160000,99,9999,Lead,6,5.0,1
+2296,Grace,Lee,Female,2020-12-19,160000,4,1003,Manager,5,1.0,1
+2297,Mona,Rodriguez,Female,2019-11-18,112000,99,9999,Analyst,3,4.0,0
+2298,Eve,Kim,f,2021-11-04,160000,10,1037,Analyst,11,2.0,0
+2299,Diana,Brown,female,2023-02-01,73000,7,1025,Associate,8,3.0,0
+2300,Laura,Brown,Female,2018-10-09,160000,7,1017,Director,9,4.0,1
+2301,Jack,Johnson,female,2020-07-30,112000,1,1013,Lead,7,4.0,0
+2302,Eve,Wilson,male,2022-03-30,135000,1,1045,Analyst,5,4.0,0
+2303,Grace,Brown,F,2022-04-28,73000,9,1007,Associate,9,2.0,1
+2304,Kevin,Brown,F,2019-06-26,160000,9,1007,Senior Analyst,7,3.0,0
+2305,Henry,Johnson,m,2019-03-21,seventy three thousand,3,1042,Lead,5,3.0,0
+2306,Laura,Brown,Female,2018-03-09,45000,99,9999,Associate,9,2.0,1
+2307,Olivia,Davis,male,2020-04-08,160000,12,1035,Senior Analyst,7,3.0,1
+2308,Laura,Kim,female,2023-11-12,112000,2,1044,Analyst,2,4.0,0
+2309,Jack,Rodriguez,Male,2023-08-28,52000,99,9999,Senior Analyst,6,4.0,1
+2310,Eve,Smith,Male,2022-09-16,61000,99,9999,Manager,6,3.0,0
+2311,Jack,Davis,Female,2019-09-05,135000,99,9999,Associate,7,4.0,0
+2312,Jack,Smith,m,2019-01-30,85000,1,1026,Senior Analyst,10,3.0,0
+2313,Bob,Rodriguez,Female,2019-12-28,52000,11,1006,Manager,13,5.0,0
+2314,Olivia,Martinez,Male,2023-05-04,52000,9,1007,Director,8,3.0,0
+2315,Diana,Lee,Man,2018-06-09,98000,11,1027,Senior Analyst,6,4.0,0
+2316,Eve,Lee,female,2023-12-17,61000,99,9999,Senior Analyst,10,5.0,1
+2317,Mona,Brown,Female,2023-08-24,52000,10,1037,Analyst,10,5.0,0
+2318,Charlie,Brown,female,2019-04-27,85k,12,1030,Associate,6,2.0,1
+2319,Alice,Smith,male,2019-01-17,73000,99,9999,Senior Analyst,7,4.0,0
+2320,Olivia,Davis,Female,2023-05-30,45k,12,1010,Lead,10,3.0,0
+2321,Jack,Brown,Man,2019-06-18,112000,6,1034,Associate,11,1.0,1
+2322,Laura,Wilson,m,2018-01-05,73000,3,1014,Manager,10,2.0,1
+2323,Grace,Kim,Male,2022-11-03,135000,5,1005,Manager,5,5.0,0
+2324,Nick,Lee,Male,2023-11-09,98000,99,9999,Associate,8,5.0,0
+2325,Ivy,Martinez,Female,2022-09-20,52000,2,1021,Senior Analyst,18,3.0,0
+2326,Kevin,Patel,Female,2022-02-26,ninety eight k,7,1033,Senior Analyst,7,4.0,0
+2327,Frank,Patel,male,2018-06-27,112000,3,1043,Analyst,5,5.0,1
+2328,Frank,Wilson,Female,2023-12-11,85000,9,1016,Associate,2,4.0,0
+2329,Charlie,Johnson,Female,2022-10-24,thirty eight k,99,9999,Senior Analyst,8,3.0,0
+2330,Kevin,Patel,male,2020-07-28,135000,99,9999,Senior Analyst,6,4.0,0
+2331,Nick,Garcia,Female,2023-05-29,98000,3,1024,Lead,5,4.0,0
+2332,Mona,Kim,Female,2022-04-11,73000,99,9999,Manager,4,4.0,0
+2333,Nick,Johnson,f,2021-12-06,73000,9,1031,Lead,10,4.0,0
+2334,Laura,Davis,Male,2019-02-05,73000,4,1012,Senior Analyst,9,,0
+2335,Diana,Kim,M,2022-10-09,98000,11,1036,Analyst,10,3.0,0
+2336,Mona,Rodriguez,Female,2019-07-03,61000,7,1033,Associate,6,3.0,0
+2337,Kevin,Kim,Male,2020-11-08,160000,5,1005,Analyst,5,2.0,0
+2338,Grace,Patel,M,2023-05-09,135000,11,1006,Lead,8,,1
+2339,Ivy,Martinez,Female,2020-08-10,52000,3,1043,VP,7,3.0,1
+2340,Nick,Garcia,Man,2018-12-10,38000,4,1029,VP,4,4.0,0
+2341,Bob,Johnson,Female,2021-03-06,45k,6,1034,Associate,8,3.0,0
+2342,Charlie,Lee,Male,2022-08-01,45000,3,1024,Manager,4,4.0,1
+2343,Grace,Johnson,male,2020-11-21,112000,6,1034,Director,8,5.0,0
+2344,Henry,Patel,Female,2020-02-14,73000,9,1016,Associate,6,4.0,0
+2345,Ivy,Johnson,male,2018-01-23,thirty eight k,11,1036,Associate,15,5.0,0
+2346,Eve,Smith,male,2018-01-30,45k,11,1006,Analyst,5,4.0,0
+2347,Laura,Rodriguez,Female,2023-11-11,160000,12,1010,Analyst,6,3.0,0
+2348,Grace,Davis,M,2019-04-28,61000,11,1036,Manager,5,5.0,0
+2349,Mona,Patel,Female,2023-10-30,45000,10,1037,Senior Analyst,5,5.0,0
+2350,Nick,Rodriguez,M,2018-01-30,45k,3,1024,Analyst,9,5.0,0
+2351,Grace,Davis,f,2022-03-17,160000,6,1034,VP,9,4.0,1
+2352,Nick,Martinez,Male,2020-04-21,160000,7,1025,Analyst,8,4.0,0
+2353,Grace,Rodriguez,F,2021-07-17,52000,1,1045,Manager,9,1.0,0
+2354,Charlie,Wilson,female,2022-08-02,52000,8,1001,Associate,9,4.0,1
+2355,Mona,Lee,f,2022-01-23,112000,6,1034,Associate,7,2.0,0
+2356,Grace,Johnson,female,2019-03-13,45000,12,1030,Analyst,7,3.0,0
+2357,Laura,Rodriguez,M,2019-09-26,73000,99,9999,Senior Analyst,6,4.0,1
+2358,Mona,Garcia,female,2022-10-12,85000,9,1031,Senior Analyst,7,4.0,0
+2359,Eve,Davis,f,2020-11-04,45000,3,1032,Director,4,1.0,0
+2360,Laura,Garcia,Female,2020-12-06,38000,1,1013,Senior Analyst,7,4.0,1
+2361,Henry,Smith,Male,2022-10-01,85000,99,9999,Senior Analyst,8,5.0,0
+2362,Diana,Patel,Male,2022-02-06,73000,99,9999,Manager,8,4.0,0
+2363,Grace,Garcia,Male,2021-02-02,seventy three thousand,3,1015,Senior Analyst,7,4.0,1
+2364,Kevin,Lee,F,2022-06-16,45000,10,1037,Associate,11,5.0,1
+2365,Diana,Brown,m,2020-04-14,61000,1,1013,Lead,5,3.0,1
+2366,Frank,Smith,F,2022-08-20,52000,3,1024,Associate,1,4.0,0
+2367,Nick,Kim,Female,2023-05-31,45k,3,1015,Analyst,6,3.0,0
+2368,Bob,Brown,female,2020-01-03,98000,3,1032,Senior Analyst,9,3.0,0
+2369,Charlie,Davis,f,2022-02-25,45000,99,9999,Manager,5,4.0,0
+2370,Frank,Wilson,Male,2023-06-05,seventy three thousand,10,1037,Analyst,8,4.0,0
+2371,Charlie,Kim,male,2020-11-05,45k,5,1028,Associate,10,1.0,0
+2372,Diana,Smith,Female,2021-06-10,73000,11,1006,Manager,12,3.0,0
+2373,Grace,Johnson,Man,2021-11-11,38000,99,9999,Senior Analyst,5,4.0,0
+2374,Eve,Johnson,Male,2022-06-19,52000,99,9999,Senior Analyst,4,4.0,0
+2375,Grace,Lee,Female,2019-07-20,38000,1,1009,Senior Analyst,11,4.0,0
+2376,Alice,Patel,female,2019-05-03,98000,5,1005,Lead,8,3.0,1
+2377,Mona,Patel,Male,2020-07-30,85000,2,1044,Director,15,4.0,0
+2378,Frank,Smith,F,2023-01-04,160000,4,1023,Associate,5,3.0,0
+2379,Laura,Smith,male,2019-10-25,112000,3,1014,Analyst,12,3.0,1
+2380,Olivia,Brown,female,2019-02-15,98000,10,1018,Analyst,5,4.0,0
+2381,Alice,Kim,Male,2020-05-28,45000,5,1008,Analyst,5,4.0,0
+2382,Nick,Kim,female,2023-09-14,38000,3,1032,Analyst,10,3.0,0
+2383,Ivy,Patel,female,2022-06-29,112000,3,1042,Associate,6,3.0,1
+2384,Henry,Patel,Female,2021-10-18,135000,4,1023,Senior Analyst,11,4.0,0
+2385,Olivia,Brown,Male,2018-08-02,85000,3,1032,Analyst,8,3.0,0
+2386,Eve,Davis,Female,2019-10-21,73000,7,1011,Manager,7,3.0,1
+2387,Frank,Brown,male,2022-05-13,45000,1,1001,Senior Analyst,9,3.0,1
+2388,Nick,Brown,female,2018-01-22,85k,3,1042,Analyst,13,3.0,0
+2389,Mona,Johnson,male,2019-01-09,112000,6,1034,Associate,5,1.0,1
+2390,Ivy,Johnson,F,2019-08-19,73000,9,1031,Associate,5,5.0,1
+2391,Laura,Patel,female,2023-04-16,52000,3,1032,Senior Analyst,15,4.0,0
+2392,Laura,Rodriguez,Male,2022-11-19,98000,2,1044,Associate,4,4.0,0
+2393,Nick,Brown,Female,2018-12-28,73000,1,1001,Senior Analyst,7,4.0,0
+2394,Henry,Patel,Female,2018-09-20,45000,99,9999,Analyst,11,4.0,0
+2395,Eve,Johnson,Female,2020-12-13,85000,6,1034,Associate,10,5.0,1
+2396,Henry,Brown,Female,2020-06-27,112000,9,1016,Associate,10,4.0,0
+2397,Frank,Patel,Male,2022-02-27,fifty two thousand,99,9999,Lead,18,3.0,1
+2398,Kevin,Smith,male,2018-11-24,38000,1,1045,Lead,14,4.0,0
+2399,Laura,Smith,Male,2018-06-04,160000,99,9999,Manager,6,,0
+2400,Kevin,Wilson,male,2022-04-24,ninety eight k,9,1016,Analyst,7,4.0,0
+2401,Mona,Martinez,M,2022-06-30,135000,3,1032,Senior Analyst,7,4.0,0
+2402,Nick,Garcia,Male,2023-11-05,112000,6,1034,Senior Analyst,9,5.0,1
+2403,Olivia,Johnson,Man,2021-03-19,112000,12,1004,Analyst,4,4.0,0
+2404,Ivy,Davis,female,2018-08-24,thirty eight k,7,1011,Analyst,6,3.0,0
+2405,Nick,Johnson,M,2019-12-19,38000,99,9999,Lead,10,2.0,0
+2406,Ivy,Rodriguez,Man,2023-07-18,38000,5,1005,Associate,10,3.0,1
+2407,Jack,Kim,Female,2022-12-04,61000,11,1027,Lead,4,1.0,1
+2408,Bob,Patel,Female,2018-02-13,135000,5,1008,Analyst,9,3.0,0
+2409,Grace,Brown,female,2020-04-06,135000,12,1035,Analyst,10,3.0,0
+2410,Nick,Davis,Male,2023-10-24,160000,9,1007,Senior Analyst,4,3.0,0
+2411,Charlie,Brown,female,2021-03-17,45k,1,1009,Analyst,11,5.0,0
+2412,Diana,Garcia,Male,2020-03-08,52000,1,1001,Analyst,8,3.0,0
+2413,Eve,Garcia,Male,2018-05-18,38000,2,1021,Senior Analyst,7,3.0,0
+2414,Grace,Garcia,female,2023-09-23,160000,1,1013,Lead,-4,3.0,0
+2415,Frank,Brown,Male,2023-10-14,fifty two thousand,1,1009,Lead,6,4.0,0
+2416,Nick,Garcia,Female,2020-08-06,38000,10,1018,Analyst,9,3.0,0
+2417,Eve,Smith,M,2019-11-26,45000,8,1001,Associate,5,4.0,0
+2418,Olivia,Kim,male,2018-05-28,52000,11,1036,Associate,8,3.0,0
+2419,Grace,Johnson,male,2022-01-13,45000,99,9999,Senior Analyst,8,4.0,0
+2420,Mona,Patel,Man,2020-09-06,45k,9,1007,Analyst,6,4.0,0
+2421,Henry,Kim,Male,2018-01-02,160000,11,1006,Lead,6,2.0,0
+2422,Laura,Davis,Female,2019-10-07,61k,11,1027,Senior Analyst,11,3.0,0
+2423,Alice,Davis,Female,2018-12-22,61000,5,1028,Senior Analyst,9,4.0,1
+2424,Olivia,Brown,Female,2021-02-04,98000,3,1014,Analyst,13,4.0,0
+2425,Diana,Brown,Male,2022-06-25,160000,3,1024,Analyst,7,4.0,1
+2426,Bob,Lee,Female,2021-12-17,85000,3,1032,Director,5,4.0,0
+2427,Olivia,Wilson,F,2022-06-07,61000,3,1043,Analyst,10,4.0,0
+2428,Alice,Rodriguez,female,2022-07-19,160000,3,1043,Lead,7,4.0,0
+2429,Alice,Brown,Male,2020-03-31,45k,99,9999,Analyst,9,3.0,0
+2430,Diana,Lee,male,2023-10-22,52000,11,1036,Senior Analyst,10,2.0,0
+2431,Mona,Smith,female,2018-03-04,52000,1,1009,Lead,7,4.0,0
+2432,Jack,Garcia,Female,2018-10-09,135000,3,1014,Manager,6,5.0,0
+2433,Diana,Garcia,male,2019-01-05,61000,1,1009,Analyst,8,5.0,1
+2434,Henry,Wilson,m,2030-04-18,thirty eight k,7,1039,Senior Analyst,7,5.0,0
+2435,Bob,Martinez,Female,2021-11-26,160000,7,1011,Manager,6,4.0,0
+2436,Olivia,Patel,Female,2021-11-24,fifty two thousand,12,1030,Lead,10,4.0,0
+2437,Grace,Davis,Male,2021-02-06,112000,3,1042,Lead,9,4.0,0
+2438,Diana,Lee,Female,2020-07-15,thirty eight k,12,1040,Senior Analyst,4,3.0,0
+2439,Frank,Brown,Female,2020-03-07,45000,99,9999,Analyst,9,4.0,0
+2440,Jack,Wilson,Male,2023-02-06,160000,1,1026,Lead,14,3.0,0
+2441,Olivia,Lee,female,2022-07-13,98000,12,1010,Manager,5,3.0,0
+2442,Kevin,Patel,Female,2018-01-20,112000,9,1031,Analyst,11,4.0,0
+2443,Laura,Patel,Male,2020-12-05,61k,7,1025,Analyst,2,4.0,0
+2444,Charlie,Patel,Male,2019-12-18,73000,6,1034,Associate,4,3.0,1
+2445,Eve,Lee,Male,2022-07-26,98000,12,1004,Associate,9,3.0,1
+2446,Ivy,Garcia,female,2023-09-05,52000,10,1037,Associate,2,5.0,1
+2447,Nick,Brown,female,2019-03-13,38000,12,1010,Associate,10,4.0,0
+2448,Ivy,Garcia,Man,2018-10-24,112000,99,9999,Associate,8,4.0,0
+2449,Nick,Davis,Male,2023-08-23,45000,10,1037,Analyst,13,3.0,0
+2450,Frank,Martinez,f,2021-04-20,73000,99,9999,Senior Analyst,6,3.0,0
+2451,Olivia,Wilson,Male,2021-10-24,38000,9,1007,Analyst,11,2.0,0
+2452,Charlie,Garcia,F,2019-04-25,61k,10,1018,Manager,7,4.0,1
+2453,Ivy,Brown,female,2023-10-04,135000,9,1016,Senior Analyst,4,4.0,0
+2454,Mona,Rodriguez,Male,2020-11-21,160000,1,1045,Associate,4,3.0,0
+2455,Diana,Garcia,Male,2020-10-21,135000,11,1006,Analyst,4,3.0,0
+2456,Kevin,Patel,m,2022-12-19,112000,9,1031,Associate,6,1.0,0
+2457,Eve,Rodriguez,Male,2022-03-25,61000,7,1033,Lead,5,4.0,0
+2458,Kevin,Garcia,female,2023-06-04,61k,99,9999,Lead,11,1.0,0
+2459,Mona,Garcia,Male,2020-09-23,52000,3,1015,Analyst,11,4.0,0
+2460,Laura,Brown,male,2021-10-23,112000,8,1001,Manager,4,4.0,0
+2461,Ivy,Wilson,female,2023-02-23,52000,10,1037,Associate,6,4.0,0
+2462,Alice,Davis,Male,2023-03-03,thirty eight k,12,1040,Senior Analyst,7,4.0,0
+2463,Henry,Wilson,female,2018-04-23,85000,7,1033,Senior Analyst,6,3.0,1
+2464,Jack,Martinez,Female,2023-05-29,98000,99,9999,Associate,8,4.0,0
+2465,Bob,Lee,Female,2019-04-22,160000,11,1036,Associate,7,4.0,0
+2466,Jack,Garcia,Male,2020-11-22,112000,1,1045,Manager,4,2.0,1
+2467,Alice,Rodriguez,Male,2018-10-04,38000,1,1026,Analyst,8,4.0,0
+2468,Grace,Kim,m,2022-04-17,fifty two thousand,10,1018,Lead,4,5.0,0
+2469,Henry,Kim,male,2020-06-21,38000,4,1023,Analyst,13,3.0,0
+2470,Grace,Rodriguez,Male,2020-07-30,45k,3,1043,Senior Analyst,7,4.0,1
+2471,Frank,Rodriguez,Female,2021-07-17,61000,9,1031,Associate,7,4.0,0
+2472,Nick,Martinez,female,2022-08-17,160000,4,1003,Lead,6,4.0,0
+2473,Grace,Wilson,male,2021-12-17,ninety eight k,8,1001,Analyst,9,4.0,0
+2474,Charlie,Wilson,Male,2023-10-17,85000,7,1039,Lead,7,3.0,0
+2475,Charlie,Garcia,Male,2018-02-09,45000,9,1016,Lead,7,3.0,1
+2476,Henry,Garcia,Female,2020-12-14,45000,6,1034,Associate,10,4.0,0
+2477,Jack,Brown,F,2020-10-13,98000,10,1018,VP,10,4.0,0
+2478,Jack,Rodriguez,female,2021-03-22,98000,3,1043,Senior Analyst,10,5.0,0
+2479,Nick,Wilson,Female,2019-01-16,45000,10,1037,Analyst,3,3.0,0
+2480,Laura,Kim,female,2022-06-23,112000,6,1034,Analyst,9,4.0,1
+2481,Grace,Brown,female,2021-11-01,ninety eight k,99,9999,Associate,10,3.0,1
+2482,Mona,Garcia,Male,2018-11-08,160000,7,1041,Associate,10,2.0,0
+2483,Ivy,Davis,Man,2020-01-02,98000,99,9999,Manager,8,3.0,1
+2484,Eve,Patel,male,2023-05-06,112000,9,1016,Analyst,9,3.0,0
+2485,Diana,Kim,Male,2021-07-09,85000,3,1042,Associate,14,3.0,1
+2486,Olivia,Martinez,Male,2021-12-19,61000,12,1004,Associate,9,3.0,0
+2487,Eve,Johnson,female,2020-06-14,38000,4,1012,Associate,11,3.0,0
+2488,Grace,Smith,Female,2021-01-07,38000,4,1003,Analyst,9,5.0,0
+2489,Laura,Rodriguez,Female,2020-01-19,45000,1,1013,Senior Analyst,4,4.0,0
+2490,Ivy,Smith,Male,2020-02-18,112000,9,1016,Analyst,8,2.0,0
+2491,Kevin,Rodriguez,female,2023-08-06,85000,8,1001,Analyst,13,,1
+2492,Frank,Wilson,male,2020-03-28,73000,4,1020,Associate,3,4.0,1
+2493,Henry,Martinez,Male,2020-08-19,160000,99,9999,Associate,9,5.0,0
+2494,Eve,Lee,Female,2020-09-18,160000,2,1019,Senior Analyst,8,3.0,0
+2495,Henry,Davis,f,2020-12-23,61k,4,1023,Analyst,7,4.0,1
+2496,Frank,Lee,f,2020-04-26,135000,3,1015,Senior Analyst,5,5.0,0
+2497,Diana,Brown,Female,2020-07-27,61000,1,1013,Lead,2,3.0,0
+2498,Eve,Lee,f,2020-04-10,112000,7,1011,VP,6,5.0,0
+2499,Ivy,Johnson,m,2020-10-19,98000,10,1037,Senior Analyst,4,4.0,0
+2500,Nick,Martinez,female,2021-12-29,61000,7,1002,Analyst,8,5.0,0
+2501,Ivy,Lee,female,2019-10-01,98000,2,1044,Associate,10,3.0,0
+2502,Henry,Smith,male,2019-03-13,160000,5,1008,Lead,7,3.0,0
+2503,Charlie,Davis,male,2019-05-07,160000,1,1026,Associate,9,3.0,0
+2504,Diana,Lee,Male,2018-11-18,98000,99,9999,Senior Analyst,6,5.0,1
+2505,Grace,Lee,male,2023-07-11,38000,1,1001,Associate,8,3.0,0
+2506,Ivy,Johnson,Female,2018-01-28,135000,9,1007,Analyst,7,4.0,0
+2507,Diana,Kim,F,2018-06-23,135000,99,9999,Analyst,2,3.0,0
+2508,Henry,Garcia,male,2023-05-30,45000,8,1001,Analyst,9,3.0,0
+2509,Kevin,Wilson,Female,2022-03-01,61k,99,9999,Senior Analyst,5,3.0,0
+2510,Grace,Johnson,Female,2021-07-15,38000,3,1015,Manager,11,4.0,0
+2511,Alice,Rodriguez,female,2023-07-10,98000,11,1027,Analyst,10,4.0,0
+2512,Eve,Rodriguez,Female,2021-01-30,52000,8,1001,Senior Analyst,7,2.0,0
+2513,Grace,Johnson,female,2023-07-04,61000,11,1006,VP,9,5.0,0
+2514,Diana,Wilson,m,2020-01-20,45k,1,1001,Associate,5,4.0,0
+2515,Jack,Davis,Female,2023-09-25,seventy three thousand,2,1019,Senior Analyst,6,4.0,0
+2516,Frank,Garcia,Female,2021-02-21,112000,2,1021,Analyst,4,4.0,0
+2517,Ivy,Wilson,M,2022-06-18,160000,10,1022,Senior Analyst,8,3.0,1
+2518,Frank,Martinez,Man,2020-06-28,112000,99,9999,Associate,9,3.0,0
+2519,Olivia,Kim,female,2019-06-10,52000,11,1006,VP,8,4.0,0
+2520,Ivy,Kim,Man,2018-08-10,ninety eight k,1,1045,Senior Analyst,9,3.0,0
+2521,Frank,Smith,m,2023-11-24,85000,99,9999,Analyst,4,4.0,1
+2522,Grace,Martinez,Male,2022-09-30,38000,4,1020,Analyst,9,1.0,0
+2523,Eve,Wilson,f,2023-05-14,45000,5,1028,Associate,10,4.0,0
+2524,Diana,Lee,Male,2018-05-14,85000,2,1019,Senior Analyst,7,3.0,0
+2525,Kevin,Martinez,Male,2023-08-21,73000,11,1006,Lead,5,4.0,0
+2526,Eve,Davis,f,2021-11-23,73000,3,1032,Associate,8,3.0,0
+2527,Laura,Smith,Female,2022-06-01,160000,9,1007,Associate,9,5.0,0
+2528,Olivia,Rodriguez,female,2019-12-17,61000,99,9999,Senior Analyst,9,3.0,0
+2529,Kevin,Patel,Man,2023-02-16,45000,1,1013,Associate,7,4.0,1
+2530,Charlie,Davis,f,2019-05-09,85000,8,1001,Lead,5,4.0,0
+2531,Laura,Rodriguez,Male,2023-10-24,38000,3,1024,Lead,10,4.0,0
+2532,Eve,Smith,M,2023-02-28,85000,4,1029,Associate,6,3.0,0
+2533,Ivy,Davis,Male,2021-07-16,45000,7,1025,Analyst,10,4.0,1
+2534,Laura,Martinez,Male,2018-02-04,112000,4,1003,Lead,4,3.0,0
+2535,Ivy,Lee,female,2018-02-18,85000,10,1037,Associate,7,3.0,1
+2536,Olivia,Martinez,Female,2020-05-13,135000,7,1041,Lead,12,4.0,0
+2537,Mona,Davis,female,2022-04-04,135000,9,1007,Senior Analyst,8,4.0,0
+2538,Eve,Kim,Male,2019-02-17,61k,11,1036,Lead,7,4.0,0
+2539,Frank,Smith,F,2021-08-25,85000,9,1016,Analyst,6,5.0,1
+2540,Eve,Kim,Female,2022-01-21,45000,9,1031,Senior Analyst,12,3.0,0
+2541,Kevin,Brown,Female,2020-11-29,160000,9,1007,Analyst,5,5.0,0
+2542,Bob,Rodriguez,Female,2020-02-06,61000,5,1005,Lead,6,3.0,0
+2543,Alice,Kim,male,2020-12-12,61000,4,1003,Senior Analyst,5,4.0,0
+2544,Alice,Patel,Male,2020-08-29,73000,99,9999,Analyst,10,4.0,0
+2545,Eve,Wilson,F,2021-01-08,98000,9,1007,Associate,10,4.0,1
+2546,Olivia,Garcia,Female,2023-04-15,45000,3,1032,Associate,5,3.0,0
+2547,Jack,Davis,Female,2021-11-06,112000,7,1038,Analyst,11,4.0,0
+2548,Laura,Johnson,Male,2022-02-07,135000,4,1003,Senior Analyst,8,3.0,0
+2549,Bob,Garcia,Man,2020-01-24,112000,99,9999,Senior Analyst,4,3.0,0
+2550,Alice,Kim,F,2023-08-05,135000,1,1009,Analyst,8,2.0,0
+2551,Eve,Martinez,Female,2022-10-03,112000,3,1014,Analyst,3,4.0,0
+2552,Henry,Kim,male,2020-05-12,zero,4,1023,Lead,4,2.0,0
+2553,Frank,Martinez,F,2022-09-13,112000,7,1002,Analyst,6,,1
+2554,Olivia,Wilson,m,2022-03-05,98000,99,9999,Analyst,13,2.0,0
+2555,Diana,Wilson,female,2022-02-04,73000,1,1013,Analyst,6,3.0,0
+2556,Mona,Smith,Male,2022-06-29,45k,12,1040,Director,5,4.0,0
+2557,Bob,Kim,female,2021-02-19,seventy three thousand,1,1026,Analyst,4,5.0,0
+2558,Alice,Kim,female,2023-01-21,52000,99,9999,Director,8,2.0,0
+2559,Henry,Wilson,female,2020-01-07,61000,1,1001,Senior Analyst,5,4.0,1
+2560,Ivy,Lee,Female,2019-06-22,38000,1,1001,Analyst,6,4.0,0
+2561,Kevin,Brown,Female,2020-07-25,135000,10,1037,Analyst,10,4.0,1
+2562,Charlie,Wilson,f,2019-02-14,112000,99,9999,Manager,16,4.0,0
+2563,Mona,Patel,female,2021-01-10,112000,99,9999,Manager,5,3.0,0
+2564,Olivia,Patel,male,2020-08-23,38000,9,1007,Analyst,10,4.0,1
+2565,Bob,Kim,Male,2022-11-06,45k,99,9999,Associate,6,3.0,1
+2566,Diana,Patel,Female,2022-04-10,61000,1,1045,Analyst,10,2.0,1
+2567,Ivy,Johnson,Male,2020-03-14,135000,99,9999,Associate,6,4.0,0
+2568,Grace,Rodriguez,Female,2019-08-21,98000,7,1002,Associate,9,4.0,0
+2569,Ivy,Garcia,Male,2019-09-05,85000,11,1027,Manager,11,3.0,0
+2570,Jack,Rodriguez,male,2023-04-22,135000,12,1035,VP,4,4.0,0
+2571,Laura,Smith,f,2018-02-09,112000,11,1027,Senior Analyst,12,4.0,0
+2572,Frank,Patel,male,2019-12-25,160000,8,1001,Associate,10,4.0,1
+2573,Nick,Patel,Female,2022-09-23,seventy three thousand,7,1039,Senior Analyst,6,4.0,0
+2574,Eve,Lee,Female,2023-08-09,73000,12,1010,Senior Analyst,12,4.0,1
+2575,Ivy,Kim,female,2019-07-05,85000,3,1042,Analyst,10,4.0,0
+2576,Grace,Brown,Male,2023-10-19,thirty eight k,99,9999,Analyst,6,3.0,0
+2577,Ivy,Brown,Man,2023-12-28,73000,11,1036,Analyst,10,3.0,0
+2578,Alice,Lee,Male,2021-07-17,52000,3,1042,Lead,8,,0
+2579,Olivia,Kim,M,2023-06-17,52000,11,1006,Analyst,10,4.0,1
+2580,Bob,Lee,Male,2021-05-13,seventy three thousand,8,1001,Analyst,6,4.0,0
+2581,Laura,Wilson,Female,2020-10-24,52000,11,1027,Senior Analyst,5,5.0,0
+2582,Jack,Garcia,female,2018-07-15,fifty two thousand,11,1027,Senior Analyst,15,4.0,0
+2583,Diana,Johnson,female,2022-06-20,45k,1,1026,Analyst,11,3.0,0
+2584,Bob,Wilson,m,2019-02-10,85000,7,1011,Senior Analyst,6,3.0,1
+2585,Diana,Rodriguez,Female,2019-11-01,112000,99,9999,Associate,10,3.0,0
+2586,Ivy,Davis,Male,2018-09-03,52000,3,1024,Associate,8,4.0,0
+2587,Charlie,Martinez,Male,2020-06-01,38000,9,1031,Analyst,13,4.0,1
+2588,Grace,Wilson,Male,2020-11-07,85k,4,1003,Senior Analyst,5,5.0,0
+2589,Kevin,Wilson,Man,2023-05-06,112000,7,1041,Analyst,10,4.0,1
+2590,Henry,Rodriguez,Female,2019-01-30,52000,9,1031,Associate,10,4.0,0
+2591,Alice,Patel,M,2023-01-17,45000,9,1016,Manager,2,4.0,0
+2592,Eve,Lee,f,2021-10-02,98000,3,1042,Senior Analyst,9,5.0,1
+2593,Eve,Rodriguez,M,2020-11-30,52000,10,1018,Manager,8,4.0,1
+2594,Mona,Garcia,Female,2022-01-18,85k,1,1001,Analyst,12,4.0,0
+2595,Bob,Garcia,Female,2022-01-15,135000,2,1019,Analyst,7,4.0,0
+2596,Diana,Rodriguez,Female,2020-11-21,85000,1,1001,Senior Analyst,11,4.0,1
+2597,Diana,Patel,Female,2021-11-10,73000,2,1044,Analyst,7,3.0,0
+2598,Laura,Wilson,Female,2018-03-23,73000,7,1011,Senior Analyst,8,2.0,0
+2599,Ivy,Rodriguez,Male,2022-08-14,160000,9,1031,Senior Analyst,10,2.0,0
+2600,Mona,Martinez,Female,2019-05-12,160000,12,1010,Senior Analyst,7,4.0,0
+2601,Charlie,Martinez,male,2021-12-09,112000,2,1044,Senior Analyst,9,4.0,0
+2602,Bob,Davis,Female,2020-03-25,45000,99,9999,Senior Analyst,8,2.0,1
+2603,Diana,Martinez,Male,2019-12-16,thirty eight k,11,1006,Associate,7,3.0,0
+2604,Charlie,Wilson,female,2021-03-11,135000,6,1034,Analyst,9,3.0,1
+2605,Diana,Brown,Male,2021-12-25,38000,99,9999,Lead,10,4.0,0
+2606,Charlie,Martinez,male,2021-08-24,61000,99,9999,Associate,6,3.0,0
+2607,Alice,Garcia,Female,2023-09-22,45000,3,1024,Lead,3,2.0,0
+2608,Laura,Garcia,Male,2023-06-20,160000,5,1005,Associate,7,3.0,0
+2609,Ivy,Kim,Male,2023-01-05,160000,99,9999,Director,2,3.0,0
+2610,Mona,Rodriguez,m,2018-11-18,seventy three thousand,11,1027,Analyst,10,4.0,0
+2611,Nick,Johnson,Male,2022-04-10,45000,1,1045,Analyst,4,3.0,0
+2612,Grace,Davis,M,2021-03-19,112000,12,1035,Associate,7,4.0,0
+2613,Henry,Davis,Female,2023-03-15,45000,12,1010,Senior Analyst,13,4.0,0
+2614,Eve,Lee,Male,2019-08-17,ninety eight k,11,1006,Associate,7,5.0,1
+2615,Grace,Garcia,Male,2019-11-18,85000,12,1010,Associate,8,3.0,1
+2616,Eve,Johnson,male,2021-10-13,135000,12,1004,Analyst,5,3.0,0
+2617,Ivy,Davis,Female,2022-09-24,85000,3,1014,Manager,8,2.0,0
+2618,Grace,Patel,Female,2022-07-16,98000,3,1015,Lead,8,3.0,0
+2619,Ivy,Wilson,Male,2018-10-20,85k,10,1022,Analyst,6,4.0,1
+2620,Nick,Wilson,Male,2018-11-21,85000,99,9999,Lead,9,2.0,0
+2621,Laura,Garcia,Man,2019-10-26,112000,3,1042,Analyst,13,3.0,0
+2622,Jack,Davis,Female,2021-11-08,45000,9,1016,Analyst,9,5.0,1
+2623,Alice,Patel,Female,2020-07-23,112000,10,1037,Director,10,4.0,1
+2624,Diana,Smith,male,2021-07-08,98000,7,1038,Analyst,11,2.0,0
+2625,Kevin,Johnson,male,2021-07-21,seventy three thousand,11,1027,Director,8,2.0,0
+2626,Mona,Patel,m,2021-04-08,98000,99,9999,Lead,7,2.0,0
+2627,Ivy,Brown,m,2020-12-31,ninety eight k,10,1037,Analyst,4,5.0,0
+2628,Alice,Brown,m,2022-06-08,160000,8,1001,Associate,3,4.0,0
+2629,Laura,Wilson,female,2021-01-16,52000,6,1034,Manager,10,4.0,0
+2630,Mona,Kim,Male,2022-12-28,112000,9,1016,Senior Analyst,12,5.0,0
+2631,Ivy,Smith,Male,2022-01-27,135000,4,1020,Lead,8,4.0,0
+2632,Laura,Lee,F,2023-11-04,45000,5,1028,Analyst,10,3.0,0
+2633,Charlie,Smith,Female,2023-01-19,160000,8,1001,Associate,6,3.0,1
+2634,Henry,Lee,f,2030-04-18,45k,1,1013,Senior Analyst,6,4.0,0
+2635,Grace,Smith,Male,2019-11-17,73000,3,1014,Analyst,8,5.0,1
+2636,Eve,Patel,Male,2020-01-24,135000,9,1031,Analyst,8,3.0,1
+2637,Olivia,Wilson,f,2018-04-05,160000,6,1034,Analyst,11,4.0,0
+2638,Grace,Garcia,female,2019-05-28,fifty two thousand,4,1003,Analyst,7,5.0,0
+2639,Mona,Smith,m,2020-08-19,98000,11,1006,Associate,9,3.0,0
+2640,Olivia,Davis,Male,2020-10-27,112000,10,1037,Lead,10,5.0,0
+2641,Henry,Rodriguez,Female,2018-11-24,73000,3,1042,Analyst,8,3.0,1
+2642,Grace,Garcia,F,2020-05-12,73000,99,9999,Lead,4,,0
+2643,Eve,Kim,female,2019-11-15,112000,7,1002,Senior Analyst,9,3.0,0
+2644,Bob,Johnson,female,2022-06-15,thirty eight k,11,1027,Lead,3,4.0,0
+2645,Charlie,Johnson,female,2019-02-26,73000,9,1016,Senior Analyst,12,4.0,0
+2646,Grace,Wilson,male,2019-01-27,112000,99,9999,Manager,9,3.0,0
+2647,Henry,Martinez,female,2018-09-19,73000,11,1006,Associate,7,5.0,0
+2648,Jack,Rodriguez,male,2023-04-23,112000,11,1006,Senior Analyst,9,4.0,0
+2649,Grace,Patel,m,2018-08-09,61k,12,1010,Analyst,4,4.0,0
+2650,Laura,Davis,Male,2018-04-18,73000,2,1019,Senior Analyst,6,3.0,1
+2651,Alice,Patel,Man,2022-06-15,45000,3,1024,Senior Analyst,5,5.0,0
+2652,Bob,Rodriguez,Female,2023-11-17,85000,11,1006,Senior Analyst,9,3.0,0
+2653,Diana,Patel,female,2018-12-07,160000,7,1041,Analyst,12,3.0,0
+2654,Bob,Smith,Male,2019-03-02,73000,11,1036,Senior Analyst,5,3.0,0
+2655,Laura,Rodriguez,male,2020-12-11,112000,2,1044,Analyst,8,3.0,0
+2656,Mona,Davis,female,2019-09-29,45000,8,1001,Manager,7,5.0,0
+2657,Mona,Johnson,Male,2018-12-12,160000,5,1028,Senior Analyst,10,3.0,0
+2658,Alice,Davis,Male,2022-05-16,seventy three thousand,7,1038,Associate,8,3.0,0
+2659,Nick,Johnson,Female,2021-06-21,thirty eight k,9,1031,Lead,8,4.0,0
+2660,Grace,Rodriguez,f,2020-07-28,112000,7,1033,Senior Analyst,10,4.0,0
+2661,Alice,Patel,M,2020-10-10,52000,8,1001,Associate,10,4.0,0
+2662,Henry,Johnson,f,2021-03-09,38000,7,1038,Associate,7,3.0,0
+2663,Jack,Rodriguez,F,2022-12-21,98000,6,1034,Associate,8,4.0,0
+2664,Henry,Davis,Male,2019-06-02,85k,12,1004,Associate,12,3.0,0
+2665,Grace,Martinez,female,2019-06-22,73000,1,1026,Associate,2,5.0,0
+2666,Alice,Rodriguez,Female,2023-11-28,45000,9,1007,Analyst,11,4.0,0
+2667,Eve,Garcia,male,2019-11-30,52000,9,1016,Director,10,4.0,1
+2668,Bob,Wilson,Female,2018-04-28,160000,11,1006,Associate,7,3.0,0
+2669,Eve,Patel,Male,2018-05-24,135000,9,1007,Senior Analyst,15,3.0,0
+2670,Nick,Patel,f,2022-01-01,85000,12,1010,Manager,5,3.0,0
+2671,Henry,Lee,male,2021-08-25,73000,99,9999,Analyst,2,3.0,0
+2672,Alice,Garcia,Male,2023-05-05,85k,4,1012,Senior Analyst,9,3.0,0
+2673,Jack,Johnson,Male,2023-03-29,160000,3,1032,Analyst,14,4.0,0
+2674,Laura,Lee,Female,2021-01-20,fifty two thousand,6,1034,Associate,7,3.0,0
+2675,Kevin,Davis,m,2022-12-28,135000,3,1015,Lead,5,4.0,0
+2676,Eve,Martinez,Female,2019-07-08,112000,10,1022,Lead,9,2.0,0
+2677,Alice,Smith,Female,2019-12-27,fifty two thousand,99,9999,Senior Analyst,8,3.0,0
+2678,Grace,Wilson,Female,2023-02-14,52000,2,1044,Analyst,9,4.0,0
+2679,Diana,Brown,Female,2022-11-17,61000,2,1021,Analyst,8,4.0,0
+2680,Mona,Rodriguez,female,2023-11-15,135000,3,1043,Analyst,7,4.0,0
+2681,Bob,Davis,Female,2023-12-27,135000,11,1027,Senior Analyst,8,2.0,0
+2682,Olivia,Lee,female,2021-06-22,135000,9,1007,Analyst,7,4.0,0
+2683,Jack,Smith,F,2021-11-23,45000,2,1021,Analyst,10,3.0,0
+2684,Charlie,Brown,female,2023-05-27,45k,99,9999,Manager,8,3.0,0
+2685,Nick,Patel,M,2020-07-19,52000,12,1010,Lead,5,4.0,0
+2686,Eve,Wilson,Male,2019-01-02,112000,1,1001,Analyst,6,3.0,0
+2687,Kevin,Davis,Female,2022-12-15,85k,10,1022,Manager,8,2.0,0
+2688,Grace,Lee,F,2021-06-15,112000,12,1004,Senior Analyst,8,,0
+2689,Henry,Smith,f,2022-02-07,160000,5,1005,Manager,9,4.0,0
+2690,Henry,Patel,Man,2022-08-16,85k,1,1013,Analyst,11,2.0,0
+2691,Grace,Garcia,F,2020-11-30,seventy three thousand,1,1001,Associate,12,4.0,0
+2692,Charlie,Martinez,Male,2019-09-30,45000,2,1044,Senior Analyst,9,2.0,1
+2693,Charlie,Martinez,female,2021-05-28,52000,99,9999,Senior Analyst,5,4.0,0
+2694,Ivy,Johnson,male,2018-02-13,seventy three thousand,99,9999,Associate,3,4.0,0
+2695,Laura,Rodriguez,female,2018-01-01,52000,2,1019,Analyst,13,3.0,0
+2696,Charlie,Lee,male,2023-11-14,98000,3,1015,Analyst,12,1.0,0
+2697,Bob,Rodriguez,Female,2019-07-13,45k,3,1024,Analyst,16,2.0,0
+2698,Laura,Brown,Female,2021-11-09,112000,3,1032,Lead,8,4.0,0
+2699,Mona,Brown,Female,2021-03-20,thirty eight k,12,1010,Analyst,13,4.0,1
+2700,Frank,Martinez,m,2023-04-06,38000,4,1029,Associate,10,3.0,0
+2701,Laura,Davis,male,2018-02-04,135000,3,1024,Associate,8,3.0,0
+2702,Eve,Lee,Female,2023-07-08,112000,3,1014,Associate,13,3.0,0
+2703,Alice,Davis,Female,2023-05-09,seventy three thousand,9,1007,VP,10,3.0,0
+2704,Kevin,Rodriguez,Female,2021-05-12,73000,5,1008,Senior Analyst,12,3.0,0
+2705,Mona,Garcia,Female,2018-02-07,45000,11,1006,Manager,8,4.0,0
+2706,Ivy,Patel,Male,2022-10-30,160000,3,1024,VP,9,4.0,0
+2707,Jack,Kim,Male,2021-04-14,61k,12,1010,Manager,9,5.0,0
+2708,Mona,Brown,m,2020-08-05,85k,9,1007,Senior Analyst,6,5.0,1
+2709,Grace,Brown,Man,2018-01-30,52000,2,1021,Analyst,6,4.0,0
+2710,Henry,Martinez,Male,2022-03-11,73000,6,1034,Associate,11,4.0,0
+2711,Eve,Johnson,F,2020-02-12,85000,99,9999,Analyst,7,5.0,0
+2712,Laura,Wilson,Female,2022-08-14,135000,99,9999,Manager,11,2.0,1
+2713,Frank,Brown,Female,2022-11-26,160000,7,1038,Lead,10,1.0,0
+2714,Nick,Smith,male,2022-06-05,160000,7,1025,Manager,7,1.0,0
+2715,Nick,Kim,Female,2020-10-20,160000,99,9999,Analyst,5,4.0,1
+2716,Olivia,Wilson,Male,2019-10-31,135000,9,1007,Associate,3,4.0,0
+2717,Diana,Patel,M,2022-05-16,61000,1,1009,Analyst,5,3.0,0
+2718,Frank,Garcia,Male,2022-03-30,52000,99,9999,Associate,4,4.0,0
+2719,Mona,Wilson,Male,2020-06-22,135000,3,1014,Analyst,9,4.0,0
+2720,Grace,Patel,female,2020-12-13,45000,9,1007,Associate,11,2.0,1
+2721,Eve,Kim,m,2018-11-21,135000,3,1024,Analyst,2,3.0,0
+2722,Henry,Lee,m,2022-09-26,112000,1,1001,Director,11,1.0,0
+2723,Nick,Garcia,F,2020-09-08,160000,3,1014,Associate,13,3.0,1
+2724,Frank,Lee,Female,2023-10-18,45k,12,1010,Senior Analyst,10,4.0,0
+2725,Olivia,Lee,female,2021-01-18,85000,3,1032,Lead,10,4.0,0
+2726,Laura,Davis,Male,2021-03-12,98000,3,1043,Lead,10,4.0,0
+2727,Jack,Johnson,Male,2023-12-19,61000,3,1014,Lead,11,4.0,0
+2728,Charlie,Garcia,Male,2021-01-06,85k,7,1038,Analyst,11,4.0,0
+2729,Olivia,Smith,Female,2022-08-19,45000,99,9999,Associate,8,4.0,1
+2730,Bob,Patel,Man,2020-02-10,112000,7,1025,Analyst,7,4.0,0
+2731,Olivia,Patel,Man,2018-10-08,73000,9,1016,Analyst,8,4.0,0
+2732,Eve,Garcia,male,2020-01-18,thirty eight k,99,9999,Senior Analyst,6,4.0,0
+2733,Bob,Patel,Male,2019-07-14,112000,8,1001,Associate,11,3.0,0
+2734,Mona,Lee,Male,2021-04-01,73000,3,1015,Manager,7,4.0,0
+2735,Bob,Kim,female,2019-03-29,73000,3,1024,Manager,10,3.0,0
+2736,Nick,Smith,Male,2023-02-09,112000,3,1024,Director,9,4.0,1
+2737,Alice,Patel,F,2023-01-29,98000,5,1008,Associate,11,3.0,0
+2738,Charlie,Patel,female,2021-01-19,ninety eight k,6,1034,Manager,6,3.0,0
+2739,Nick,Garcia,female,2023-07-09,45000,12,1004,Manager,5,5.0,0
+2740,Olivia,Davis,female,2020-02-09,112000,4,1003,Manager,6,3.0,0
+2741,Bob,Smith,female,2021-08-06,85k,7,1017,Lead,10,3.0,0
+2742,Laura,Patel,Male,2018-03-21,112000,10,1018,Analyst,10,3.0,0
+2743,Diana,Brown,Man,2019-09-16,98000,5,1008,Analyst,7,,0
+2744,Jack,Smith,Male,2018-07-23,45k,12,1010,Associate,5,4.0,1
+2745,Frank,Smith,Female,2018-04-01,98000,9,1031,Analyst,4,4.0,0
+2746,Bob,Martinez,Male,2020-02-01,160000,3,1032,Analyst,11,4.0,0
+2747,Eve,Brown,Female,2019-02-23,fifty two thousand,11,1036,Associate,13,3.0,0
+2748,Kevin,Wilson,Female,2021-03-01,61000,8,1001,Senior Analyst,5,3.0,0
+2749,Ivy,Lee,m,2021-01-07,160000,8,1001,Associate,10,3.0,0
+2750,Olivia,Lee,male,2019-05-28,ninety eight k,7,1039,Analyst,5,4.0,0
+2751,Jack,Davis,f,2022-12-01,98000,7,1025,Associate,12,4.0,0
+2752,Nick,Kim,female,2018-02-03,73000,11,1006,Analyst,10,3.0,0
+2753,Henry,Davis,Female,2020-08-11,160000,2,1044,Associate,10,3.0,0
+2754,Ivy,Lee,Female,2019-01-05,98000,4,1029,Manager,4,3.0,0
+2755,Jack,Lee,F,2019-09-10,160000,1,1009,Associate,5,4.0,0
+2756,Diana,Martinez,female,2018-03-02,112000,11,1036,Manager,13,1.0,1
+2757,Kevin,Martinez,M,2023-07-15,52000,3,1024,Analyst,6,1.0,0
+2758,Eve,Martinez,f,2020-06-08,45k,99,9999,Lead,12,3.0,0
+2759,Diana,Rodriguez,Male,2021-11-01,112000,8,1001,Analyst,5,4.0,0
+2760,Bob,Wilson,Male,2022-09-18,fifty two thousand,12,1030,Associate,10,4.0,1
+2761,Olivia,Wilson,Man,2021-06-30,38000,99,9999,Associate,4,,0
+2762,Laura,Patel,male,2023-08-04,112000,12,1010,Associate,11,4.0,0
+2763,Kevin,Lee,female,2022-03-02,52000,99,9999,Manager,5,4.0,0
+2764,Bob,Kim,Male,2023-03-15,85k,6,1034,Associate,8,5.0,0
+2765,Charlie,Kim,Male,2018-05-10,160000,9,1031,Analyst,9,3.0,0
+2766,Eve,Garcia,Male,2021-09-14,45000,3,1024,VP,10,4.0,0
+2767,Alice,Wilson,F,2018-11-25,135000,3,1015,Senior Analyst,4,4.0,0
+2768,Eve,Kim,M,2019-08-22,112000,7,1041,Associate,7,3.0,0
+2769,Alice,Kim,female,2018-08-18,112000,9,1007,Analyst,7,4.0,0
+2770,Frank,Davis,female,2020-12-27,73000,4,1003,Senior Analyst,4,3.0,0
+2771,Grace,Garcia,Female,2022-05-27,135000,9,1016,Analyst,18,3.0,0
+2772,Diana,Martinez,Male,2018-10-20,38000,99,9999,Manager,7,3.0,0
+2773,Grace,Wilson,Male,2023-04-10,45000,9,1031,Senior Analyst,7,3.0,1
+2774,Kevin,Martinez,female,2020-01-14,85000,11,1036,Analyst,1,3.0,0
+2775,Charlie,Kim,F,2020-02-27,112000,12,1004,Analyst,8,4.0,0
+2776,Charlie,Lee,Male,2020-10-21,thirty eight k,99,9999,Analyst,8,4.0,0
+2777,Jack,Kim,Male,2022-04-12,73000,9,1007,Associate,6,4.0,0
+2778,Frank,Smith,Male,2018-02-21,52000,12,1040,Associate,9,3.0,0
+2779,Kevin,Davis,M,2019-05-15,52000,99,9999,Analyst,4,4.0,0
+2780,Henry,Martinez,M,2020-10-16,98000,99,9999,Senior Analyst,6,,1
+2781,Ivy,Smith,m,2022-04-26,45000,2,1021,Manager,12,3.0,0
+2782,Diana,Brown,Male,2022-12-20,112000,6,1034,Director,15,4.0,0
+2783,Jack,Brown,Female,2020-10-09,135000,3,1032,VP,3,4.0,1
+2784,Grace,Wilson,Female,2018-05-18,112000,1,1045,Analyst,9,4.0,1
+2785,Kevin,Kim,m,2020-03-26,52000,10,1022,Associate,6,3.0,0
+2786,Nick,Lee,f,2023-03-03,98000,11,1006,Associate,5,3.0,0
+2787,Grace,Lee,m,2019-01-20,160000,99,9999,Senior Analyst,4,4.0,0
+2788,Eve,Brown,female,2023-11-05,160000,2,1021,Analyst,13,5.0,0
+2789,Ivy,Lee,Male,2020-05-03,73000,99,9999,Lead,7,3.0,0
+2790,Bob,Brown,F,2023-04-21,38000,10,1037,Lead,8,5.0,0
+2791,Olivia,Rodriguez,Female,2022-05-13,52000,11,1027,Associate,8,3.0,1
+2792,Olivia,Kim,Female,2021-07-02,85000,99,9999,Senior Analyst,9,3.0,0
+2793,Eve,Martinez,Male,2021-08-16,160000,10,1037,Senior Analyst,10,3.0,0
+2794,Olivia,Garcia,Male,2019-10-12,85000,4,1023,Lead,14,4.0,0
+2795,Kevin,Wilson,Male,2018-06-22,98000,12,1035,Analyst,3,3.0,0
+2796,Grace,Martinez,F,2023-11-04,85000,4,1023,Director,4,3.0,0
+2797,Eve,Garcia,Female,2019-05-16,38000,1,1013,Lead,8,5.0,0
+2798,Olivia,Martinez,Female,2020-11-03,61000,12,1040,Analyst,9,5.0,0
+2799,Mona,Kim,Male,2023-05-26,73000,4,1023,Associate,13,3.0,0
+2800,Bob,Johnson,Male,2021-05-08,45000,12,1040,Analyst,5,3.0,0
+2801,Frank,Brown,f,2020-03-24,45000,4,1003,Senior Analyst,8,4.0,0
+2802,Frank,Lee,m,2022-01-16,38000,99,9999,Analyst,4,4.0,0
+2803,Eve,Davis,Female,2018-08-02,38000,3,1015,Lead,8,3.0,0
+2804,Kevin,Rodriguez,Man,2020-06-11,98000,99,9999,Associate,5,5.0,0
+2805,Alice,Rodriguez,female,2019-04-08,98000,12,1010,Senior Analyst,12,2.0,0
+2806,Mona,Garcia,Man,2020-08-24,112000,2,1019,Analyst,6,4.0,0
+2807,Frank,Davis,m,2022-11-14,85000,9,1016,Associate,9,3.0,0
+2808,Alice,Smith,Man,2021-08-22,98000,99,9999,Analyst,8,4.0,0
+2809,Mona,Martinez,Female,2018-03-03,45000,7,1025,Analyst,12,3.0,0
+2810,Laura,Smith,m,2019-11-17,45000,3,1032,Associate,11,4.0,1
+2811,Olivia,Smith,Female,2021-02-04,61000,7,1025,Senior Analyst,6,5.0,0
+2812,Nick,Johnson,Female,2019-05-06,135000,7,1033,Senior Analyst,7,4.0,0
+2813,Laura,Brown,female,2022-06-10,85k,11,1027,Analyst,3,4.0,0
+2814,Mona,Smith,Man,2020-09-22,73000,10,1022,Analyst,10,3.0,0
+2815,Nick,Johnson,female,2018-02-06,98000,6,1034,Analyst,4,5.0,0
+2816,Laura,Lee,Female,2018-06-22,45000,3,1024,Analyst,9,5.0,1
+2817,Diana,Garcia,F,2023-05-01,135000,10,1022,Senior Analyst,13,4.0,1
+2818,Mona,Smith,Female,2019-09-27,seventy three thousand,6,1034,Senior Analyst,13,4.0,0
+2819,Diana,Wilson,male,2022-03-02,160000,2,1019,Associate,11,5.0,1
+2820,Charlie,Rodriguez,Male,2019-01-02,61000,99,9999,Associate,11,3.0,0
+2821,Diana,Rodriguez,Female,2020-10-15,45000,10,1018,Lead,6,4.0,0
+2822,Laura,Wilson,male,2019-10-08,160000,10,1022,Analyst,4,4.0,0
+2823,Laura,Smith,male,2023-08-10,85000,12,1035,Senior Analyst,11,4.0,0
+2824,Kevin,Garcia,Female,2019-01-10,160000,8,1001,Senior Analyst,6,4.0,0
+2825,Charlie,Patel,f,2021-10-18,112000,12,1010,Analyst,3,4.0,0
+2826,Bob,Smith,f,2018-09-03,85000,7,1002,Lead,15,3.0,0
+2827,Jack,Wilson,f,2018-09-02,73000,1,1026,Senior Analyst,4,3.0,0
+2828,Alice,Garcia,F,2021-12-27,73000,6,1034,Analyst,14,3.0,0
+2829,Laura,Kim,Female,2019-09-23,135000,7,1039,Analyst,7,4.0,0
+2830,Alice,Garcia,Male,2019-03-16,98000,11,1027,Associate,7,,0
+2831,Frank,Wilson,Male,2019-05-31,160000,2,1021,Analyst,11,3.0,0
+2832,Bob,Patel,Man,2023-06-22,135000,2,1021,Analyst,5,4.0,0
+2833,Nick,Rodriguez,m,2020-08-11,38000,3,1032,Analyst,8,5.0,1
+2834,Eve,Johnson,male,2021-07-21,135000,3,1024,Analyst,7,5.0,0
+2835,Grace,Rodriguez,Male,2021-11-23,160000,11,1027,Analyst,3,5.0,1
+2836,Diana,Garcia,Female,2022-12-02,112000,3,1024,Lead,7,4.0,0
+2837,Laura,Lee,Female,2020-03-01,135000,10,1022,Associate,8,3.0,0
+2838,Nick,Brown,Male,2018-03-29,98000,7,1039,Associate,6,5.0,1
+2839,Frank,Lee,Female,2022-03-28,38000,9,1007,Senior Analyst,5,3.0,0
+2840,Henry,Kim,m,2022-01-07,85000,12,1010,VP,8,4.0,0
+2841,Eve,Martinez,female,2019-07-06,61k,6,1034,Analyst,5,4.0,0
+2842,Charlie,Smith,Female,2020-10-23,73000,12,1010,Associate,9,4.0,0
+2843,Nick,Rodriguez,Male,2018-06-11,98000,6,1034,Analyst,6,3.0,0
+2844,Olivia,Garcia,female,2023-06-11,45000,4,1003,Associate,9,2.0,0
+2845,Olivia,Lee,Female,2022-11-28,98000,99,9999,Analyst,12,4.0,1
+2846,Eve,Wilson,Female,2021-04-22,73000,3,1024,Analyst,12,3.0,0
+2847,Nick,Kim,M,2023-07-01,73000,1,1001,Associate,5,5.0,0
+2848,Mona,Davis,F,2020-02-17,61000,12,1030,Manager,8,4.0,1
+2849,Henry,Smith,Male,2020-02-04,45k,1,1045,Senior Analyst,6,4.0,0
+2850,Bob,Rodriguez,Male,2021-11-25,38000,12,1040,Analyst,4,5.0,0
+2851,Laura,Wilson,f,2021-08-18,73000,6,1034,Manager,6,4.0,0
+2852,Diana,Smith,Male,2023-04-03,135000,99,9999,Analyst,8,3.0,0
+2853,Kevin,Patel,Female,2021-02-01,98000,11,1027,Analyst,5,3.0,0
+2854,Kevin,Patel,Man,2019-10-19,38000,10,1018,Senior Analyst,7,4.0,0
+2855,Frank,Garcia,F,2018-10-10,seventy three thousand,99,9999,Associate,9,5.0,0
+2856,Mona,Wilson,male,2023-12-16,73000,5,1005,Analyst,7,4.0,1
+2857,Ivy,Wilson,Female,2019-09-27,73000,99,9999,Analyst,12,5.0,0
+2858,Bob,Smith,M,2023-01-15,52000,2,1019,Senior Analyst,10,2.0,0
+2859,Frank,Davis,male,2021-04-26,38000,7,1011,Associate,13,3.0,0
+2860,Diana,Wilson,Female,2020-12-14,112000,3,1024,Analyst,4,2.0,0
+2861,Bob,Kim,Female,2022-02-12,38000,8,1001,Associate,10,4.0,0
+2862,Frank,Rodriguez,Man,2023-02-03,45000,3,1042,Associate,8,3.0,0
+2863,Laura,Rodriguez,Female,2018-01-03,73000,99,9999,Analyst,6,2.0,0
+2864,Diana,Davis,Female,2023-09-04,98000,99,9999,Senior Analyst,6,4.0,1
+2865,Frank,Rodriguez,Male,2022-04-02,45000,99,9999,Senior Analyst,12,3.0,0
+2866,Jack,Lee,Female,2020-01-30,52000,2,1019,Lead,13,4.0,0
+2867,Frank,Davis,Male,2018-03-18,160000,10,1022,Analyst,11,4.0,0
+2868,Kevin,Wilson,male,2022-01-31,45000,7,1025,Associate,11,3.0,0
+2869,Henry,Brown,female,2020-09-05,160000,4,1020,Lead,5,,0
+2870,Jack,Lee,Male,2021-08-06,135000,4,1020,Senior Analyst,8,5.0,0
+2871,Olivia,Rodriguez,male,2018-09-17,45000,6,1034,Senior Analyst,9,3.0,1
+2872,Eve,Wilson,Male,2022-05-07,45000,11,1036,Senior Analyst,15,3.0,0
+2873,Jack,Kim,Male,2020-02-17,85000,9,1031,Analyst,12,3.0,0
+2874,Jack,Garcia,Female,2023-11-17,160000,7,1033,Analyst,7,3.0,0
+2875,Jack,Wilson,Female,2023-07-31,61000,1,1009,Senior Analyst,9,5.0,1
+2876,Grace,Johnson,male,2019-09-24,61k,1,1045,Analyst,7,3.0,0
+2877,Kevin,Davis,Female,2021-03-05,52000,1,1009,Analyst,7,5.0,0
+2878,Jack,Smith,Female,2021-08-14,73000,99,9999,Senior Analyst,3,3.0,0
+2879,Bob,Lee,f,2022-08-06,73000,1,1045,Senior Analyst,9,5.0,0
+2880,Alice,Johnson,Female,2021-08-12,38000,2,1021,Analyst,10,4.0,0
+2881,Alice,Davis,female,2019-03-29,85000,3,1014,Director,10,4.0,0
+2882,Olivia,Davis,Male,2019-01-30,45000,12,1030,Manager,11,4.0,0
+2883,Bob,Rodriguez,Female,2023-11-14,98000,99,9999,Lead,6,3.0,0
+2884,Diana,Kim,Male,2018-10-01,61000,12,1030,Analyst,5,4.0,0
+2885,Ivy,Brown,Female,2018-06-29,52000,10,1022,Associate,4,3.0,0
+2886,Frank,Brown,f,2019-06-16,85000,8,1001,Analyst,6,3.0,0
+2887,Frank,Davis,Female,2020-01-02,38000,1,1026,Manager,11,4.0,1
+2888,Olivia,Wilson,Male,2018-05-09,160000,99,9999,Senior Analyst,10,3.0,0
+2889,Kevin,Garcia,Male,2020-04-07,38000,11,1036,Associate,15,4.0,0
+2890,Ivy,Patel,Male,2019-03-15,61000,10,1037,Associate,9,3.0,0
+2891,Ivy,Martinez,f,2023-06-12,98000,11,1006,Lead,4,4.0,0
+2892,Kevin,Martinez,m,2020-02-24,85000,11,1027,Associate,11,5.0,0
+2893,Nick,Wilson,Male,2019-02-09,45000,10,1037,Analyst,11,4.0,0
+2894,Jack,Smith,Male,2018-05-11,61000,99,9999,Analyst,9,4.0,0
+2895,Mona,Martinez,female,2022-05-11,ninety eight k,99,9999,Associate,11,4.0,0
+2896,Jack,Kim,male,2023-06-30,98000,10,1037,Senior Analyst,9,5.0,0
+2897,Olivia,Johnson,F,2023-11-24,73000,10,1018,Manager,4,3.0,0
+2898,Eve,Lee,Male,2020-11-14,61000,1,1026,Lead,11,4.0,1
+2899,Kevin,Smith,male,2018-07-21,52000,10,1018,Lead,3,3.0,0
+2900,Diana,Brown,male,2022-02-09,85000,1,1009,Senior Analyst,8,1.0,0
+2901,Grace,Brown,Man,2020-06-23,98000,9,1031,Associate,8,3.0,0
+2902,Diana,Brown,female,2018-10-18,73000,99,9999,Associate,4,3.0,0
+2903,Frank,Rodriguez,f,2018-02-23,112000,9,1031,Senior Analyst,3,4.0,0
+2904,Olivia,Kim,Female,2020-05-04,98000,7,1025,Analyst,4,5.0,0
+2905,Frank,Brown,Male,2023-07-06,85000,3,1032,Associate,6,4.0,0
+2906,Nick,Martinez,M,2018-11-24,45000,2,1019,Associate,8,4.0,0
+2907,Jack,Patel,Male,2023-04-02,73000,11,1036,Associate,9,2.0,0
+2908,Alice,Lee,F,2018-09-06,85000,3,1042,Director,5,3.0,0
+2909,Eve,Brown,Female,2022-01-18,135000,2,1044,Lead,8,3.0,0
+2910,Olivia,Patel,Female,2022-08-31,112000,6,1034,Analyst,7,4.0,0
+2911,Olivia,Lee,Female,2022-02-20,38000,12,1035,Analyst,9,2.0,0
+2912,Mona,Brown,Female,2018-08-27,52000,11,1027,Director,6,4.0,0
+2913,Bob,Patel,Male,2020-12-24,fifty two thousand,1,1001,Analyst,5,5.0,1
+2914,Diana,Martinez,F,2023-12-07,61000,7,1038,Director,1,4.0,0
+2915,Jack,Kim,M,2018-06-16,85000,8,1001,Analyst,9,4.0,0
+2916,Olivia,Lee,male,2018-10-16,45k,10,1022,Director,8,4.0,0
+2917,Alice,Smith,Female,2021-05-29,135000,10,1037,Analyst,3,3.0,0
+2918,Frank,Lee,Male,2018-11-16,52000,4,1023,Lead,7,3.0,0
+2919,Olivia,Patel,M,2020-06-03,98000,9,1007,Associate,9,4.0,0
+2920,Laura,Martinez,Male,2023-10-29,85000,7,1041,Associate,6,4.0,0
+2921,Diana,Johnson,F,2019-02-02,52000,99,9999,Associate,5,4.0,1
+2922,Mona,Patel,Man,2019-02-19,160000,8,1001,Analyst,5,3.0,0
+2923,Ivy,Kim,female,2020-08-04,seventy three thousand,7,1002,Associate,9,4.0,1
+2924,Ivy,Johnson,Female,2023-12-18,98000,6,1034,Associate,8,2.0,0
+2925,Mona,Rodriguez,male,2022-04-28,98000,9,1007,Senior Analyst,9,3.0,0
+2926,Diana,Patel,m,2020-02-16,160000,12,1040,Associate,6,3.0,0
+2927,Laura,Martinez,m,2020-03-02,38000,8,1001,Senior Analyst,7,3.0,0
+2928,Laura,Johnson,female,2023-11-26,160000,10,1022,Analyst,6,3.0,0
+2929,Ivy,Smith,Male,2020-10-15,45000,11,1036,Analyst,8,3.0,1
+2930,Eve,Patel,f,2020-01-03,61000,8,1001,Senior Analyst,10,4.0,1
+2931,Olivia,Brown,Female,2022-08-28,fifty two thousand,6,1034,Senior Analyst,14,4.0,0
+2932,Olivia,Garcia,m,2019-03-09,160000,99,9999,Analyst,11,4.0,0
+2933,Ivy,Johnson,m,2022-01-06,seventy three thousand,6,1034,Manager,15,4.0,0
+2934,Laura,Smith,Female,2023-02-22,85k,7,1038,Associate,6,5.0,0
+2935,Bob,Brown,Female,2022-10-16,160000,99,9999,Associate,10,2.0,0
+2936,Mona,Brown,Male,2019-03-03,135000,1,1009,Senior Analyst,4,3.0,0
+2937,Bob,Martinez,female,2019-11-15,112000,3,1032,Analyst,5,4.0,1
+2938,Frank,Davis,m,2020-01-09,112000,5,1005,Lead,7,3.0,0
+2939,Laura,Smith,Man,2022-07-03,61k,99,9999,Analyst,11,4.0,1
+2940,Ivy,Patel,female,2023-08-30,73000,1,1026,Analyst,5,4.0,0
+2941,Alice,Martinez,Male,2021-10-14,112000,1,1045,Analyst,8,5.0,0
+2942,Diana,Wilson,female,2019-10-10,98000,1,1013,Analyst,9,5.0,0
+2943,Bob,Brown,female,2023-12-27,160000,1,1013,Associate,15,5.0,0
+2944,Grace,Rodriguez,Female,2022-12-20,73000,1,1045,Analyst,6,3.0,1
+2945,Bob,Lee,f,2021-12-14,61000,7,1002,Senior Analyst,6,5.0,1
+2946,Alice,Garcia,F,2021-07-14,98000,9,1031,Manager,7,3.0,0
+2947,Grace,Wilson,male,2021-08-22,38000,3,1014,Analyst,6,4.0,1
+2948,Frank,Johnson,Male,2022-03-03,73000,5,1008,Analyst,4,4.0,0
+2949,Ivy,Lee,F,2022-08-16,112000,1,1009,Manager,3,3.0,0
+2950,Grace,Lee,f,2022-10-30,85000,4,1020,Analyst,8,4.0,0
+2951,Diana,Johnson,m,2021-08-17,112000,8,1001,VP,8,2.0,1
+2952,Jack,Johnson,Female,2020-09-12,112000,11,1027,VP,4,3.0,0
+2953,Kevin,Kim,Female,2020-05-26,85000,1,1009,Analyst,5,5.0,1
+2954,Nick,Kim,Male,2022-03-17,98000,7,1039,Analyst,11,3.0,0
+2955,Jack,Martinez,Man,2020-11-06,98000,3,1014,Senior Analyst,7,2.0,1
+2956,Eve,Kim,male,2022-01-14,160000,99,9999,Senior Analyst,10,3.0,0
+2957,Jack,Rodriguez,Female,2023-01-28,45000,11,1036,Director,9,5.0,0
+2958,Alice,Wilson,M,2023-01-07,38000,9,1016,Associate,8,2.0,0
+2959,Olivia,Garcia,F,2022-06-15,61000,3,1015,Manager,8,3.0,0
+2960,Mona,Brown,Male,2018-01-01,85000,99,9999,Manager,11,,0
+2961,Grace,Garcia,f,2018-05-22,160000,1,1026,Analyst,12,3.0,1
+2962,Bob,Johnson,Male,2021-03-11,thirty eight k,2,1019,Analyst,8,3.0,1
+2963,Kevin,Smith,male,2018-03-08,135000,5,1028,Manager,8,4.0,0
+2964,Grace,Patel,Male,2023-10-22,73000,2,1044,Analyst,6,4.0,0
+2965,Nick,Davis,m,2019-07-08,85k,99,9999,VP,13,4.0,0
+2966,Eve,Patel,m,2021-05-21,135000,12,1035,Senior Analyst,4,3.0,0
+2967,Charlie,Davis,Male,2018-01-27,52000,3,1043,Analyst,12,5.0,0
+2968,Bob,Patel,m,2021-05-15,135000,9,1016,Associate,4,5.0,0
+2969,Jack,Patel,F,2020-06-27,85000,99,9999,Senior Analyst,12,3.0,0
+2970,Ivy,Davis,F,2020-05-29,fifty two thousand,99,9999,Analyst,9,2.0,0
+2971,Kevin,Wilson,m,2021-07-13,135000,9,1007,Analyst,10,5.0,0
+2972,Frank,Brown,f,2018-03-30,seventy three thousand,99,9999,Analyst,10,4.0,0
+2973,Ivy,Kim,Female,2021-02-04,38000,99,9999,Senior Analyst,8,4.0,0
+2974,Eve,Brown,Male,2023-09-26,112000,11,1006,Lead,6,4.0,0
+2975,Henry,Wilson,Female,2019-09-26,73000,1,1001,Manager,11,4.0,0
+2976,Grace,Garcia,m,2019-01-22,98000,6,1034,Senior Analyst,8,4.0,1
+2977,Laura,Johnson,Male,2018-06-04,73000,12,1004,Senior Analyst,8,3.0,0
+2978,Bob,Patel,Male,2023-03-01,73000,3,1043,Senior Analyst,10,,0
+2979,Jack,Kim,Male,2021-12-27,98000,12,1040,Manager,9,5.0,0
+2980,Nick,Martinez,Female,2019-10-02,85000,2,1021,Analyst,8,4.0,0
+2981,Ivy,Brown,Man,2019-07-21,112000,1,1001,Senior Analyst,3,4.0,0
+2982,Mona,Rodriguez,m,2020-12-21,52000,5,1008,Senior Analyst,9,5.0,0
+2983,Grace,Martinez,Male,2022-02-12,112000,1,1009,Analyst,10,4.0,0
+2984,Nick,Kim,Male,2020-10-20,fifty two thousand,99,9999,Associate,6,3.0,1
+2985,Grace,Kim,Male,2020-08-12,fifty two thousand,12,1004,Associate,6,4.0,0
+2986,Mona,Martinez,f,2020-11-15,seventy three thousand,12,1035,Analyst,6,3.0,1
+2987,Frank,Patel,Male,2021-05-15,112000,10,1022,Senior Analyst,7,2.0,1
+2988,Kevin,Rodriguez,F,2019-01-12,112000,3,1015,Lead,11,3.0,0
+2989,Eve,Lee,Male,2022-06-26,85000,7,1025,Associate,7,4.0,0
+2990,Eve,Rodriguez,Male,2020-06-09,135000,9,1016,Associate,8,5.0,0
+2991,Diana,Johnson,Female,2018-11-13,112000,8,1001,Senior Analyst,7,3.0,0
+2992,Olivia,Martinez,male,2021-08-22,fifty two thousand,3,1032,Associate,9,3.0,1
+2993,Kevin,Smith,m,2023-05-31,45000,7,1002,Analyst,3,4.0,0
+2994,Henry,Wilson,Male,2019-12-10,seventy three thousand,7,1038,Associate,4,4.0,0
+2995,Bob,Rodriguez,Female,2023-06-23,52000,99,9999,Associate,14,4.0,1
+2996,Bob,Lee,M,2019-01-26,73000,99,9999,Associate,12,4.0,1
+2997,Grace,Martinez,Male,2021-05-15,160000,7,1002,Lead,12,4.0,0
+2998,Laura,Davis,F,2018-06-03,38000,10,1018,Analyst,4,3.0,1
+2999,Frank,Smith,F,2022-04-12,160000,11,1027,Senior Analyst,9,3.0,0
+3000,Bob,Davis,Female,2018-11-18,45000,1,1026,Manager,9,3.0,0
+3001,Alice,Martinez,male,2018-08-18,112000,99,9999,Analyst,9,5.0,0
+3002,Olivia,Wilson,female,2021-10-01,85k,99,9999,Analyst,5,3.0,0
+3003,Ivy,Johnson,female,2021-11-26,45000,7,1039,Associate,12,4.0,0
+3004,Kevin,Kim,female,2022-11-14,160000,5,1008,Manager,11,3.0,0
+3005,Grace,Lee,Male,2022-09-03,45000,3,1014,Lead,3,4.0,0
+3006,Nick,Johnson,Male,2019-05-09,fifty two thousand,7,1017,Senior Analyst,1,3.0,0
+3007,Olivia,Patel,female,2020-07-17,112000,1,1045,Analyst,9,3.0,0
+3008,Grace,Patel,male,2018-02-16,112000,99,9999,Analyst,9,3.0,0
+3009,Nick,Patel,Female,2022-04-16,73000,1,1026,Associate,6,4.0,0
+3010,Alice,Brown,f,2018-08-10,38000,3,1032,Associate,12,3.0,0
+3011,Eve,Brown,Male,2021-06-02,38000,99,9999,Senior Analyst,10,4.0,1
+3012,Eve,Garcia,Female,2023-11-18,112000,11,1036,Associate,8,4.0,1
+3013,Bob,Rodriguez,F,2018-06-18,160000,3,1014,Senior Analyst,8,4.0,0
+3014,Henry,Davis,female,2021-07-31,38000,3,1032,Analyst,7,4.0,0
+3015,Charlie,Patel,Man,2019-09-05,73000,1,1009,Lead,10,5.0,1
+3016,Henry,Smith,Male,2021-08-31,38000,10,1018,Analyst,11,3.0,1
+3017,Mona,Rodriguez,Female,2023-08-20,135000,1,1009,Analyst,7,3.0,0
+3018,Frank,Wilson,f,2020-06-23,ninety eight k,8,1001,Associate,8,5.0,0
+3019,Ivy,Martinez,Female,2019-09-20,seventy three thousand,99,9999,Analyst,13,3.0,0
+3020,Bob,Brown,Male,2018-07-26,ninety eight k,2,1021,Analyst,9,4.0,0
+3021,Eve,Rodriguez,male,2022-05-29,61k,99,9999,Lead,2,3.0,0
+3022,Diana,Johnson,male,2022-12-31,98000,99,9999,Manager,6,4.0,0
+3023,Grace,Lee,Man,2023-08-30,fifty two thousand,1,1026,Analyst,3,3.0,0
+3024,Ivy,Wilson,Male,2019-01-04,112000,99,9999,Lead,5,5.0,1
+3025,Laura,Johnson,m,2020-06-28,73000,7,1017,Analyst,12,4.0,0
+3026,Jack,Brown,Male,2022-11-05,160000,99,9999,Manager,7,3.0,0
+3027,Kevin,Brown,Male,2021-04-01,45000,9,1031,Senior Analyst,8,3.0,1
+3028,Ivy,Wilson,F,2022-06-04,135000,10,1037,Lead,5,3.0,0
+3029,Jack,Wilson,female,2019-08-30,112000,9,1016,Analyst,9,4.0,0
+3030,Jack,Rodriguez,male,2019-06-26,112000,99,9999,Lead,8,3.0,0
+3031,Kevin,Kim,male,2021-10-08,160000,11,1036,Associate,11,3.0,0
+3032,Alice,Martinez,male,2018-12-05,98000,8,1001,Lead,5,4.0,1
+3033,Eve,Johnson,female,2023-05-04,160000,99,9999,Lead,7,3.0,0
+3034,Laura,Johnson,male,2018-07-21,ninety eight k,3,1042,Analyst,7,3.0,0
+3035,Nick,Lee,Male,2022-06-24,135000,2,1044,Analyst,3,3.0,1
+3036,Frank,Martinez,Male,2020-12-11,112000,3,1043,Lead,10,4.0,0
+3037,Charlie,Brown,female,2018-12-15,52000,4,1023,Manager,7,5.0,0
+3038,Charlie,Wilson,F,2022-06-21,135000,3,1024,Lead,5,3.0,0
+3039,Jack,Lee,Female,2023-08-18,135000,99,9999,Associate,7,4.0,0
+3040,Bob,Patel,Male,2022-11-15,112000,2,1019,Associate,5,2.0,1
+3041,Laura,Garcia,Female,2019-06-19,112000,10,1018,Analyst,7,3.0,0
+3042,Olivia,Wilson,female,2019-07-07,52000,3,1015,Associate,11,4.0,0
+3043,Bob,Wilson,Male,2023-05-24,73000,99,9999,Analyst,4,3.0,0
+3044,Henry,Johnson,male,2020-03-22,135000,99,9999,Associate,10,4.0,0
+3045,Frank,Rodriguez,Male,2023-06-22,160000,7,1041,Analyst,9,5.0,0
+3046,Grace,Garcia,female,2022-06-08,45000,99,9999,Analyst,10,5.0,1
+3047,Charlie,Kim,Female,2020-03-14,135000,1,1001,Associate,10,3.0,0
+3048,Eve,Rodriguez,m,2023-11-18,98000,12,1035,Analyst,7,3.0,0
+3049,Eve,Smith,F,2020-10-05,112000,3,1042,Manager,5,5.0,0
+3050,Olivia,Davis,male,2020-09-19,160000,99,9999,Associate,7,3.0,0
+3051,Ivy,Martinez,Male,2018-10-21,85000,1,1009,Analyst,5,4.0,0
+3052,Nick,Kim,f,2020-12-26,45000,9,1031,Analyst,3,3.0,0
+3053,Charlie,Kim,female,2022-10-28,thirty eight k,11,1027,Analyst,3,3.0,0
+3054,Laura,Martinez,Female,2021-08-17,112000,3,1042,Associate,9,3.0,1
+3055,Alice,Garcia,Female,2019-01-02,52000,3,1032,Associate,10,5.0,0
+3056,Bob,Kim,m,2019-04-06,thirty eight k,1,1026,Analyst,8,5.0,0
+3057,Grace,Johnson,Female,2022-08-22,73000,3,1032,Manager,6,3.0,0
+3058,Grace,Wilson,male,2022-10-01,112000,9,1031,Senior Analyst,5,4.0,0
+3059,Jack,Patel,Female,2022-02-05,112000,2,1019,Senior Analyst,7,3.0,0
+3060,Grace,Smith,female,2021-11-27,73000,5,1005,Senior Analyst,7,2.0,0
+3061,Diana,Smith,male,2020-02-20,52000,1,1013,Manager,8,4.0,1
+3062,Henry,Wilson,Female,2021-08-06,45000,12,1035,Associate,9,4.0,0
+3063,Frank,Smith,Male,2021-11-12,160000,2,1021,VP,11,3.0,1
+3064,Bob,Kim,Male,2018-04-10,45000,3,1043,Analyst,6,3.0,0
+3065,Kevin,Johnson,Female,2021-06-02,thirty eight k,1,1013,Director,8,5.0,0
+3066,Ivy,Martinez,m,2019-11-25,45k,6,1034,Analyst,9,5.0,0
+3067,Henry,Rodriguez,F,2021-12-03,112000,99,9999,Analyst,7,4.0,0
+3068,Eve,Martinez,Male,2022-12-17,98000,5,1008,Associate,6,3.0,0
+3069,Diana,Garcia,Male,2019-08-21,160000,3,1032,Associate,8,4.0,0
+3070,Olivia,Brown,Man,2022-12-10,73000,11,1006,Manager,9,3.0,0
+3071,Alice,Kim,Female,2018-07-03,160000,12,1010,Analyst,8,5.0,0
+3072,Diana,Patel,Male,2020-08-14,98000,3,1042,Analyst,13,2.0,0
+3073,Olivia,Garcia,Male,2020-03-28,45k,12,1035,Analyst,9,3.0,0
+3074,Laura,Martinez,f,2022-03-12,thirty eight k,99,9999,Associate,9,3.0,0
+3075,Laura,Brown,Male,2019-10-01,38000,3,1032,Associate,11,4.0,0
+3076,Eve,Lee,M,2018-12-18,61000,12,1035,Analyst,7,4.0,0
+3077,Bob,Wilson,male,2019-04-06,61000,11,1036,Associate,7,3.0,0
+3078,Henry,Patel,M,2018-08-12,52000,7,1017,Manager,6,4.0,0
+3079,Grace,Martinez,Male,2020-09-22,98000,1,1045,Senior Analyst,6,4.0,1
+3080,Bob,Davis,Female,2019-08-28,135000,1,1001,Senior Analyst,12,1.0,1
+3081,Henry,Patel,male,2021-03-24,73000,99,9999,Analyst,8,4.0,0
+3082,Diana,Patel,Female,2018-02-26,52000,99,9999,Manager,8,5.0,1
+3083,Ivy,Smith,Male,2021-11-07,thirty eight k,10,1022,Analyst,3,2.0,0
+3084,Kevin,Lee,Male,2019-04-01,52000,7,1002,Associate,11,2.0,1
+3085,Frank,Kim,female,2021-06-03,112000,10,1018,Associate,9,3.0,0
+3086,Frank,Wilson,m,2023-01-18,112000,9,1007,Analyst,12,2.0,0
+3087,Laura,Martinez,f,2023-04-14,112000,5,1028,Manager,8,4.0,0
+3088,Grace,Brown,Male,2018-04-04,61000,1,1045,Lead,5,4.0,0
+3089,Grace,Martinez,Male,2021-09-21,ninety eight k,12,1030,Lead,6,4.0,0
+3090,Bob,Garcia,Female,2020-05-06,thirty eight k,5,1005,Lead,5,3.0,1
+3091,Eve,Patel,female,2020-05-17,98000,12,1010,Director,7,4.0,0
+3092,Grace,Lee,female,2020-04-14,112000,3,1032,Lead,10,4.0,0
+3093,Grace,Johnson,female,2023-11-14,160000,1,1026,Analyst,6,5.0,0
+3094,Jack,Wilson,male,2020-11-25,seventy three thousand,2,1044,Analyst,6,3.0,1
+3095,Eve,Garcia,Female,2023-06-02,98000,7,1011,Associate,8,4.0,1
+3096,Grace,Rodriguez,Male,2019-08-02,160000,99,9999,Lead,7,5.0,0
+3097,Olivia,Kim,m,2018-03-17,112000,2,1021,Director,9,4.0,1
+3098,Charlie,Patel,Male,2022-03-23,38000,99,9999,Lead,3,3.0,1
+3099,Olivia,Patel,male,2023-11-28,98000,8,1001,Analyst,7,3.0,0
+3100,Grace,Johnson,Male,2018-06-28,135000,12,1004,Associate,11,5.0,1
+3101,Kevin,Kim,female,2020-11-12,98000,3,1042,Senior Analyst,13,3.0,0
+3102,Frank,Garcia,Male,2019-11-29,45000,12,1030,Analyst,6,5.0,0
+3103,Grace,Johnson,Male,2018-09-04,85000,12,1035,Associate,4,4.0,0
+3104,Bob,Wilson,Female,2021-03-09,ninety eight k,3,1032,Analyst,9,3.0,0
+3105,Grace,Martinez,Female,2020-04-02,73000,2,1019,Lead,5,4.0,0
+3106,Grace,Rodriguez,Male,2021-01-16,112000,99,9999,Associate,7,1.0,0
+3107,Bob,Brown,Male,2018-08-06,61000,99,9999,Associate,7,3.0,1
+3108,Nick,Wilson,M,2023-03-20,160000,1,1013,Associate,11,4.0,1
+3109,Laura,Kim,Female,2018-02-04,85000,11,1006,Director,8,4.0,0
+3110,Diana,Lee,Male,2018-09-30,112000,99,9999,Senior Analyst,6,,0
+3111,Laura,Johnson,Man,2022-05-11,73000,99,9999,Senior Analyst,7,4.0,0
+3112,Bob,Patel,Female,2021-01-16,98000,99,9999,Analyst,5,3.0,0
+3113,Jack,Johnson,Male,2022-01-15,85000,11,1036,Manager,5,4.0,1
+3114,Henry,Patel,Male,2019-03-18,52000,7,1002,Manager,7,4.0,0
+3115,Charlie,Brown,Male,2018-03-20,73000,3,1032,Associate,6,3.0,1
+3116,Laura,Brown,male,2021-04-13,45000,3,1014,Associate,10,5.0,1
+3117,Frank,Patel,Male,2022-05-03,fifty two thousand,11,1006,Associate,8,4.0,0
+3118,Olivia,Garcia,Male,2020-08-04,52000,11,1036,Associate,10,4.0,0
+3119,Jack,Garcia,M,2022-04-09,45000,3,1043,Associate,5,4.0,0
+3120,Charlie,Rodriguez,Male,2023-09-14,112000,99,9999,Analyst,7,3.0,0
+3121,Bob,Rodriguez,Male,2019-02-12,61000,11,1036,Analyst,9,3.0,0
+3122,Diana,Johnson,m,2021-07-16,38000,9,1031,Senior Analyst,5,4.0,1
+3123,Charlie,Johnson,Male,2023-06-09,73000,7,1041,Associate,9,5.0,0
+3124,Charlie,Kim,m,2023-12-18,fifty two thousand,9,1016,Lead,7,4.0,0
+3125,Laura,Lee,f,2018-12-27,135000,2,1021,Lead,6,3.0,0
+3126,Bob,Davis,Female,2020-02-03,45000,3,1043,Analyst,12,3.0,0
+3127,Olivia,Brown,Female,2020-03-25,45000,1,1026,Analyst,11,2.0,0
+3128,Jack,Davis,female,2023-08-13,45000,2,1019,Associate,5,3.0,1
+3129,Grace,Rodriguez,Female,2023-02-19,112000,7,1039,Analyst,5,4.0,0
+3130,Ivy,Garcia,Female,2018-03-30,85000,8,1001,Lead,5,4.0,0
+3131,Ivy,Lee,female,2018-06-12,38000,1,1001,Associate,8,3.0,0
+3132,Kevin,Patel,male,2020-10-10,135000,12,1030,Associate,5,4.0,0
+3133,Nick,Brown,Man,2023-12-09,52000,3,1014,Analyst,10,4.0,0
+3134,Jack,Wilson,Male,2021-06-02,135000,99,9999,Analyst,12,3.0,1
+3135,Olivia,Patel,Female,2021-09-28,45000,99,9999,Manager,7,4.0,0
+3136,Eve,Garcia,Female,2023-06-30,112000,3,1043,Associate,8,3.0,0
+3137,Olivia,Wilson,male,2022-05-31,45000,7,1017,Lead,11,4.0,1
+3138,Eve,Patel,Female,2019-10-06,160000,1,1013,Lead,10,4.0,0
+3139,Grace,Johnson,Male,2018-03-17,45000,9,1031,Analyst,8,4.0,0
+3140,Henry,Brown,female,2021-11-21,38000,9,1031,Associate,11,5.0,0
+3141,Jack,Martinez,F,2021-12-12,52000,3,1032,Lead,9,2.0,0
+3142,Laura,Lee,Male,2021-12-26,61000,9,1016,Senior Analyst,11,4.0,0
+3143,Ivy,Smith,Male,2021-05-23,52000,3,1032,Manager,10,4.0,1
+3144,Frank,Lee,Male,2020-08-25,112000,3,1014,Associate,5,4.0,1
+3145,Bob,Kim,Female,2023-08-16,112000,10,1018,Analyst,13,4.0,0
+3146,Grace,Martinez,Male,2021-02-03,45k,3,1042,Analyst,6,,0
+3147,Alice,Brown,female,2018-09-11,85000,9,1031,Senior Analyst,9,4.0,1
+3148,Frank,Martinez,Male,2020-11-21,fifty two thousand,6,1034,Analyst,4,3.0,0
+3149,Eve,Garcia,male,2022-05-05,61000,99,9999,Senior Analyst,10,3.0,0
+3150,Jack,Garcia,Male,2018-05-01,98000,2,1044,Analyst,5,4.0,0
+3151,Olivia,Brown,Male,2021-02-21,38000,7,1041,Senior Analyst,9,4.0,0
+3152,Bob,Lee,Female,2020-07-12,112000,10,1018,Senior Analyst,7,5.0,0
+3153,Ivy,Garcia,female,2019-09-14,135000,5,1005,Associate,11,3.0,0
+3154,Frank,Rodriguez,f,2021-10-31,73000,99,9999,Analyst,7,3.0,0
+3155,Ivy,Garcia,male,2022-05-29,98000,11,1027,Analyst,6,4.0,0
+3156,Olivia,Martinez,Male,2019-07-17,61k,10,1018,Senior Analyst,12,5.0,0
+3157,Laura,Martinez,Man,2018-12-26,135000,11,1006,Associate,9,5.0,0
+3158,Alice,Patel,Female,2022-04-15,61k,99,9999,Senior Analyst,7,3.0,0
+3159,Nick,Lee,Male,2023-11-03,98000,99,9999,Analyst,8,2.0,1
+3160,Ivy,Patel,Female,2020-07-20,98000,11,1006,Analyst,7,3.0,1
+3161,Charlie,Martinez,m,2022-09-06,135000,11,1036,Analyst,8,3.0,0
+3162,Jack,Wilson,m,2020-09-11,85000,2,1019,Analyst,8,5.0,0
+3163,Henry,Lee,f,2019-09-18,112000,2,1019,Analyst,5,3.0,0
+3164,Olivia,Davis,Female,2022-10-13,38000,9,1016,Lead,6,3.0,1
+3165,Grace,Smith,Male,2021-07-03,135000,1,1001,Associate,7,3.0,0
+3166,Mona,Lee,Male,2021-09-10,45000,7,1039,Lead,9,3.0,0
+3167,Mona,Davis,female,2023-01-14,98000,3,1015,Associate,4,4.0,0
+3168,Olivia,Smith,Male,2019-06-24,52000,4,1003,Analyst,8,2.0,0
+3169,Bob,Davis,Male,2020-04-26,98000,12,1004,Associate,5,3.0,0
+3170,Jack,Johnson,Female,2019-07-22,52000,99,9999,Manager,11,5.0,0
+3171,Alice,Martinez,Male,2020-04-08,38000,1,1013,Associate,8,3.0,1
+3172,Kevin,Lee,Female,2019-07-20,135000,8,1001,Senior Analyst,6,4.0,0
+3173,Olivia,Martinez,f,2021-06-19,98000,99,9999,Associate,10,3.0,0
+3174,Henry,Wilson,Man,2023-11-16,135000,1,1026,Senior Analyst,10,4.0,0
+3175,Jack,Davis,Female,2019-07-08,85000,12,1030,Analyst,4,2.0,1
+3176,Frank,Brown,Man,2022-10-28,38000,4,1012,Analyst,13,3.0,0
+3177,Nick,Patel,Male,2019-08-18,135000,3,1015,Analyst,11,4.0,0
+3178,Frank,Brown,Female,2019-10-10,52000,99,9999,Senior Analyst,12,3.0,0
+3179,Laura,Martinez,Female,2021-07-24,112000,3,1043,Senior Analyst,7,4.0,0
+3180,Kevin,Martinez,female,2018-10-05,135000,10,1018,Analyst,12,3.0,0
+3181,Alice,Martinez,female,2023-12-24,160000,12,1040,Analyst,9,4.0,0
+3182,Jack,Brown,Female,2019-04-30,85000,1,1009,Associate,18,5.0,0
+3183,Frank,Garcia,male,2020-01-25,98000,10,1022,Associate,5,2.0,0
+3184,Eve,Brown,Female,2021-07-24,seventy three thousand,99,9999,Manager,5,3.0,0
+3185,Ivy,Johnson,F,2019-08-20,135000,2,1044,Associate,10,4.0,0
+3186,Frank,Rodriguez,M,2018-05-01,52000,99,9999,Senior Analyst,10,4.0,0
+3187,Diana,Kim,Female,2021-07-29,135000,9,1007,Analyst,10,2.0,0
+3188,Mona,Brown,M,2022-08-23,45000,10,1037,Senior Analyst,6,4.0,0
+3189,Olivia,Rodriguez,Male,2022-08-12,73000,10,1037,Associate,9,3.0,0
+3190,Jack,Garcia,male,2021-05-27,fifty two thousand,3,1043,Analyst,11,3.0,0
+3191,Charlie,Davis,Male,2022-12-20,135000,99,9999,Manager,4,5.0,1
+3192,Bob,Martinez,male,2021-01-26,61000,99,9999,Analyst,3,4.0,0
+3193,Jack,Johnson,female,2019-09-15,73000,10,1037,Analyst,6,4.0,0
+3194,Nick,Martinez,male,2020-02-09,135000,12,1004,Associate,9,3.0,0
+3195,Eve,Patel,Male,2019-03-14,38000,10,1022,Director,10,3.0,0
+3196,Jack,Smith,Female,2019-06-23,73000,7,1033,Senior Analyst,7,5.0,0
+3197,Jack,Kim,Male,2020-01-27,85k,10,1022,Associate,5,1.0,0
+3198,Bob,Wilson,Male,2018-04-18,45000,9,1007,Analyst,9,3.0,0
+3199,Kevin,Wilson,Man,2020-12-29,160000,9,1031,Associate,9,3.0,0
+3200,Bob,Johnson,Male,2020-08-03,112000,12,1004,Lead,11,4.0,0
+3179,Laura,Martinez,Female,2021-07-24,112000,3,1043,Senior Analyst,7,4.0,0
+2866,Jack,Lee,Female,2020-01-30,52000,2,1019,Lead,13,4.0,0
+2102,Ivy,Martinez,Female,2018-02-15,85000,7,1017,Lead,5,3.0,1
+2440,Jack,Wilson,Male,2023-02-06,160000,1,1026,Lead,14,3.0,0
+2059,Alice,Davis,Male,2018-12-25,112000,12,1040,Director,7,2.0,0
